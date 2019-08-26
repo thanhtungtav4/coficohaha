@@ -1,0 +1,27 @@
+/*
+	Theme Name: Cofico Theme
+	Theme URI: https://cofico.com.vn
+	Description: COFICO | Construction Joint Stock Company
+	Version: 1.0
+	Author: COFICO
+	Author URI: https://cofico.com.vn
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+
+/* global lang is current hide lang by tungnt */
+#lang_sel_list{float: right;padding-top: 12px !important; margin-left: 20px;}
+#lang_sel_list .lang_sel_sel {
+    display: none;
+}
+.item-news-home{
+	    text-align: center;
+}
+#lang_sel_list a {
+    background: none !important;
+}
