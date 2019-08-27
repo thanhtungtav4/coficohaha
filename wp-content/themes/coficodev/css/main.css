@@ -1663,6 +1663,7 @@ span.wpcf7-not-valid-tip {
     }
     .dropdown-menu{
         right : 0!important;
+        left: unset;
     }
 }
 @media only screen and (min-width: 960px) {
