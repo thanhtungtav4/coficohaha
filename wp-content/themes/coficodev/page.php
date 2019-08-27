@@ -1321,57 +1321,56 @@
                                 <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/02/3a-1024x682.jpg" width="245" height="248">
                             </div>
                         </div>
-                    <div class="row duan_col">
-                        <div class="col-sm-6 duan_dis">
-                            <div class="col img_duan ">
-                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg" width="245" height="248">
+                            <div class="col-sm-6 duan_dis">
+                                <div class="col img_duan ">
+                                    <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg" width="245" height="248">
+                                </div>
+                                <div class="col text_duan">
+                                    <h4><a href="<?php echo get_option('siteurl') ?>/project/du-an-can-ho-hausneo/">CĂN HỘ HAUSNEO</a></h4>
+                                    <p><span>Dự Án:</span>Căn Hộ Hausneo</p>
+                                    <p><span>Địa điểm:</span> Q.9, TP.HCM</p>
+                                    <div class="gap" style="line-height: 50px; height: 50px;"></div>
+                                    <a href="<?php echo get_option('siteurl') ?>/project/du-an-can-ho-hausneo/" class="more_duan">+ Xem Thêm...</a>
+                                </div>
                             </div>
-                            <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/project/du-an-can-ho-hausneo/">CĂN HỘ HAUSNEO</a></h4>
-                                <p><span>Dự Án:</span>Căn Hộ Hausneo</p>
-                                <p><span>Địa điểm:</span> Q.9, TP.HCM</p>
-                                <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/project/du-an-can-ho-hausneo/" class="more_duan">+ Xem Thêm...</a>
+                            <div class="col-sm-6 duan_dis">
+                                <div class="col img_duan">
+                                    <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/banner-home-21.png" width="245" height="248">
+                                </div>
+                                <div class="col text_duan">
+                                    <h4><a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" >ESTELLA HEIGHTS 2</a></h4>
+                                    <p><span>Dự Án:</span> Vista Verde</p>
+                                    <p><span>Địa điểm:</span> Q.2, TP.HCM</p>
+                                    <div class="gap" style="line-height: 50px; height: 50px;"></div>
+                                    <a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" class="more_duan">+ Xem Thêm...</a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6 duan_dis">
-                            <div class="col img_duan">
-                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/banner-home-21.png" width="245" height="248">
+                            <div class="col-sm-6 duan_dis">
+                                <div class="col text_duan">
+                                    <h4><a href="<?php echo get_option('siteurl') ?>/project/sadora-condominium/">Căn Hộ Sadora</a></h4>
+                                    <p><span>Dự Án:</span>Căn Hộ Sadora</p>
+                                    <p><span>Địa điểm:</span>Thủ Thiêm, Quận 2, TP. Hồ Chí Minh</p>
+                                    <div class="gap" style="line-height: 50px; height: 50px;"></div>
+                                    <a href="<?php echo get_option('siteurl') ?>/project/sadora-condominium/" class="more_duan">+ Xem Thêm...</a>
+                                </div>
+                                <div class="col img_duan2">
+                                    <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2015/12/Sadora03-700x394.jpg" width="245" height="248">
+                                </div>
                             </div>
-                            <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" >ESTELLA HEIGHTS 2</a></h4>
-                                <p><span>Dự Án:</span> Vista Verde</p>
-                                <p><span>Địa điểm:</span> Q.2, TP.HCM</p>
-                                <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" class="more_duan">+ Xem Thêm...</a>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 duan_dis">
-                            <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/project/sadora-condominium/">Căn Hộ Sadora</a></h4>
-                                <p><span>Dự Án:</span>Căn Hộ Sadora</p>
-                                <p><span>Địa điểm:</span>Thủ Thiêm, Quận 2, TP. Hồ Chí Minh</p>
-                                <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/project/sadora-condominium/" class="more_duan">+ Xem Thêm...</a>
-                            </div>
-                            <div class="col img_duan2">
-                                <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2015/12/Sadora03-700x394.jpg" width="245" height="248">
-                            </div>
-                        </div>
-                        <div class="col-sm-6 duan_dis">
-                            <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/project/vista-verde-residental/">VISTA VERDE</a></h4>
-                                <p><span>Dự Án:</span>Căn hộ Vista Verde</p>
-                                <p><span>Địa điểm:</span>Quận 2, TP. Hồ Chí Minh</p>
-                                <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/project/vista-verde-residental/" class="more_duan">+ Xem Thêm...</a>
-                            </div>
-                            <div class="col img_duan2">
-                                <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/vistaverde.jpg" width="245" height="248">
+                            <div class="col-sm-6 duan_dis">
+                                <div class="col text_duan">
+                                    <h4><a href="<?php echo get_option('siteurl') ?>/project/vista-verde-residental/">VISTA VERDE</a></h4>
+                                    <p><span>Dự Án:</span>Căn hộ Vista Verde</p>
+                                    <p><span>Địa điểm:</span>Quận 2, TP. Hồ Chí Minh</p>
+                                    <div class="gap" style="line-height: 50px; height: 50px;"></div>
+                                    <a href="<?php echo get_option('siteurl') ?>/project/vista-verde-residental/" class="more_duan">+ Xem Thêm...</a>
+                                </div>
+                                <div class="col img_duan2">
+                                    <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/vistaverde.jpg" width="245" height="248">
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
             </section>
             <section class="du_an_mobile" id="one">
                 <div class="container">
