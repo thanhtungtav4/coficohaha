@@ -4,7 +4,7 @@
         <div class="hide_mobile">
             <div class="row blue-home">
                 <div class="center_text_home_blue">
-                    <h2>WE ARE NOT JUST BUILDING BUILDINGS</h2>
+                    <h2>WE ARE NOT JUST BUILDING BUILDINGS,</h2>
                     <h2>WE ARE BUILDING STRONG RELATIONSHIPS WITH CLIENTS AND PARTNERS</h2>
                 </div>
             </div>
@@ -832,7 +832,7 @@
         <div class="hide_mobile">
             <div class="row blue-home">
                 <div class="center_text_home_blue">
-                    <h2>CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH;</h2>
+                    <h2>CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH,</h2>
                     <h2>MÀ CÒN XÂY DỰNG MỐI QUAN HỆ TỐT ĐẸP VÀ BỀN VỮNG</h2>
                 </div>
             </div>
