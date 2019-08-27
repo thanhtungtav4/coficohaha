@@ -1275,7 +1275,7 @@
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
-                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/vistaverde-thumbnail1.jpg" width="245" height="248">
+                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2017/11/Casino-2.jpg" width="245" height="248">
                             </div>
                             <div class="col text_duan">
                                 <h4><a href="<?php echo get_option('siteurl') ?>/project/du-an-condotel-khu-phuc-hop-nam-hoi-an/" >Khu phức hợp Nam Hội An</a></h4>
@@ -1321,8 +1321,6 @@
                                 <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/02/3a-1024x682.jpg" width="245" height="248">
                             </div>
                         </div>
-                    </div>
-                    <h2 class="text_h2_center">CÁC DỰ ÁN HOÀN THÀNH GẦN ĐÂY</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan ">
