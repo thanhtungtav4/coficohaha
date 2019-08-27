@@ -1653,7 +1653,7 @@
         <div class="show_mobile">
             <div class="row">
                 <div class="container-fluid blue-home-mobile">
-                    <h3 class="h3-title-home-blue">WE ARE NOT JUST BUILDING BUILDINGS
+                    <h3 class="h3-title-home-blue">WE ARE NOT JUST BUILDING BUILDINGS,
                         WE ARE BUILDING STRONG RELATIONSHIPS WITH CLIENTS AND PARTNERS</h3>
                 </div>
             </div>
@@ -2337,7 +2337,7 @@
         <div class="show_mobile">
             <div class="row">
                 <div class="container-fluid blue-home-mobile">
-                    <h3 class="h3-title-home-blue">CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH
+                    <h3 class="h3-title-home-blue">CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH,
                         MÀ CÒN<br> XÂY DỰNG MỐI QUAN HỆ TỐT ĐẸP VÀ BỀN VỮNG</h3>
                 </div>
             </div>
