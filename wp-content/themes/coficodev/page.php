@@ -832,7 +832,7 @@
         <div class="hide_mobile">
             <div class="row blue-home">
                 <div class="center_text_home_blue">
-                    <h2>CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH</h2>
+                    <h2>CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH;</h2>
                     <h2>MÀ CÒN XÂY DỰNG MỐI QUAN HỆ TỐT ĐẸP VÀ BỀN VỮNG</h2>
                 </div>
             </div>
@@ -1269,7 +1269,7 @@
             </section>
             <section class="du_an">
                 <div class="container">
-                    <h2 class="text_h2_center">CÁC DỰ ÁN TIÊU BIỂU ĐANG THỰC HIỆN</h2>
+                    <h2 class="text_h2_center">CÁC DỰ ÁN TIÊU BIỂU GẦN ĐÂY</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
@@ -1372,7 +1372,7 @@
             </section>
             <section class="du_an_mobile" id="one">
                 <div class="container">
-                    <h2 class="text_h2_center">CÁC DỰ ÁN TIÊU BIỂU ĐANG THỰC HIỆN</h2>
+                    <h2 class="text_h2_center">CÁC DỰ ÁN TIÊU BIỂU GẦN ĐÂY</h2>
                     <div class="owl-one owl-carousel css owl-theme">
                         <div class="item1">
                             <div class="col duan_dis">
