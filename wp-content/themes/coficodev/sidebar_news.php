@@ -53,7 +53,7 @@
             <div class="col">
                 <div class="wpb_wrapper sub_news_cc">
                     <div class="gap" style="line-height: 15px; height: 15px;"></div>
-                    <p><a style="color: #0072bc;" href="https://www.cofico.com.vn/thu-ngo/">Lê Đăng Xu</a></p>
+                    <p><a style="color: #0072bc;" href="https://www.cofico.com.vn/thu-ngo/">Mr. Le Dang Xu</a></p>
                     <p><a class="left_sub_b" href="https://www.cofico.com.vn/thu-ngo/">Chairman of BOD</a></p>
                     <p><a class="left_sub_b" href="https://www.cofico.com.vn/thu-ngo/">Executive Chairman</a></p>
                     <p><a class="left_sub_b" href="https://www.cofico.com.vn/thu-ngo/">COFICO</a></p>
