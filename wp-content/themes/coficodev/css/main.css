@@ -1662,7 +1662,7 @@ span.wpcf7-not-valid-tip {
         height: 50px;
     }
     .dropdown-menu{
-        right : 0 ;
+        right : 0!important;
     }
 }
 @media only screen and (min-width: 960px) {
