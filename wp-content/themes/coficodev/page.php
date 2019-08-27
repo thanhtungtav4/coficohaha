@@ -460,11 +460,11 @@
                                 <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/03/Hoya4.jpg" width="245" height="248">
                             </div>
                             <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/en/le-dong-tho-nha-may-hoya-lens-viet-nam-2/" >Hoya Lens</a></h4>
+                                <h4><a href="<?php echo get_option('siteurl') ?>/en/project/nha-may-hoya-lens/" >Hoya Lens</a></h4>
                                 <p><span>Project:</span> Hoya Lens Vietnam 2 Factory</p>
                                 <p><span>Location:</span> Quang Ngai province</p>
                                 <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/en/le-dong-tho-nha-may-hoya-lens-viet-nam-2/" class="more_duan">+ Read more...</a>
+                                <a href="<?php echo get_option('siteurl') ?>/en/project/nha-may-hoya-lens/" class="more_duan">+ Read more...</a>
                             </div>
                         </div>
                         <div class="col-sm-6 duan_dis">
@@ -481,14 +481,14 @@
                         </div>
                         <div class="col-sm-6 duan_dis">
                             <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/en/le-dong-tho-cong-trinh-haruka-1c-1d-va-1e-midori-park-binh-duong/">Haruka</a></h4>
-                                <p><span>Project:</span> Haruka 1C, 1D and 1E </p>
-                                <p><span>Location:</span> Binh Duong Province</p>
+                                <h4><a href="<?php echo get_option('siteurl') ?>/en/project/tirol-choco-vietnam-factory/">Tirol Choco Vietnam Factory</a></h4>
+                                <p><span>Project:</span> Tirol Choco Vietnam Factory </p>
+                                <p><span>Location:</span> Dong Nai, Viet Nam</p>
                                 <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/en/le-dong-tho-cong-trinh-haruka-1c-1d-va-1e-midori-park-binh-duong/" class="more_duan">+ Read more...</a>
+                                <a href="<?php echo get_option('siteurl') ?>/en/project/tirol-choco-vietnam-factory/" class="more_duan">+ Read more...</a>
                             </div>
                             <div class="col img_duan2">
-                                <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/02/3a-1024x682.jpg" width="245" height="248">
+                                <img src="<?php echo get_option('siteurl') ?>wp-content/uploads/2019/08/TIR-Hinh-anh-du-an-1.jpg" width="245" height="248">
                             </div>
                         </div>
 
@@ -1288,11 +1288,11 @@
                                 <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/03/Hoya4.jpg" width="245" height="248">
                             </div>
                             <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/le-dong-tho-nha-may-hoya-lens-viet-nam-2/" >Hoya Lens</a></h4>
+                                <h4><a href="<?php echo get_option('siteurl') ?>/project/nha-may-hoya-lens/" >Hoya Lens</a></h4>
                                 <p><span>Dự Án:</span> Nhà Máy Hoya Lens</p>
                                 <p><span>Địa điểm:</span> Quảng Ngãi</p>
                                 <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/le-dong-tho-nha-may-hoya-lens-viet-nam-2/" class="more_duan">+ Xem Thêm...</a>
+                                <a href="<?php echo get_option('siteurl') ?>/project/nha-may-hoya-lens/" class="more_duan">+ Xem Thêm...</a>
                             </div>
                         </div>
                         <div class="col-sm-6 duan_dis">
@@ -1309,14 +1309,14 @@
                         </div>
                         <div class="col-sm-6 duan_dis">
                             <div class="col text_duan">
-                                <h4><a href="<?php echo get_option('siteurl') ?>/le-dong-tho-cong-trinh-haruka-1c-1d-va-1e-midori-park-binh-duong/">Haruka</a></h4>
-                                <p><span>Dự Án:</span> Công Trình Haruka</p>
-                                <p><span>Địa điểm:</span> Bình Dương</p>
+                                <h4><a href="<?php echo get_option('siteurl') ?>/project/nha-may-tirol-choco-viet-nam-2/">Tirol Choco Việt Nam</a></h4>
+                                <p><span>Dự Án:</span> Nhà máy Tirol Choco Việt Nam</p>
+                                <p><span>Địa điểm:</span> Đồng Nai, Việt Nam</p>
                                 <div class="gap" style="line-height: 50px; height: 50px;"></div>
-                                <a href="<?php echo get_option('siteurl') ?>/le-dong-tho-cong-trinh-haruka-1c-1d-va-1e-midori-park-binh-duong/" class="more_duan">+ Xem Thêm...</a>
+                                <a href="<?php echo get_option('siteurl') ?>/project/nha-may-tirol-choco-viet-nam-2/" class="more_duan">+ Xem Thêm...</a>
                             </div>
                             <div class="col img_duan2">
-                                <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/02/3a-1024x682.jpg" width="245" height="248">
+                                <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/08/TIR-Hinh-anh-du-an-1.jpg" width="245" height="248">
                             </div>
                         </div>
                             <div class="col-sm-6 duan_dis">
@@ -1337,7 +1337,7 @@
                                 </div>
                                 <div class="col text_duan">
                                     <h4><a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" >ESTELLA HEIGHTS 2</a></h4>
-                                    <p><span>Dự Án:</span> Vista Verde</p>
+                                    <p><span>Dự Án:</span> ESTELLA HEIGHTS 2</p>
                                     <p><span>Địa điểm:</span> Q.2, TP.HCM</p>
                                     <div class="gap" style="line-height: 50px; height: 50px;"></div>
                                     <a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" class="more_duan">+ Xem Thêm...</a>
@@ -1418,7 +1418,7 @@
                                 <div class="col">
                                     <h5><a href="<?php echo get_option('siteurl') ?>/project/can-ho-gateway-thao-dien/">GATEWAY THẢO ĐIỀN</a></h5>
                                     <p><strong>Dự Án:</strong> GATEWAY THẢO ĐIỀN</p>
-                                    <p><strong>Địa điểm:</strong> Vista Verde</p>
+                                    <p><strong>Địa điểm:</strong>Quận 2, TP. Hồ Chí Minh</p>
                                     <a href="<?php echo get_option('siteurl') ?>/project/can-ho-gateway-thao-dien/" class="more_duan">+ Xem Thêm...</a>
                                 </div>
                                 <div class="col card-img" style="background-image: url(<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/gateway-thao-dien.jpg);background-position: center;background-size: 100%;background-repeat: no-repeat;">
