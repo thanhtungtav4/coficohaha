@@ -488,7 +488,7 @@
                                 <a href="<?php echo get_option('siteurl') ?>/en/project/tirol-choco-vietnam-factory/" class="more_duan">+ Read more...</a>
                             </div>
                             <div class="col img_duan2">
-                                <img src="<?php echo get_option('siteurl') ?>wp-content/uploads/2019/08/TIR-Hinh-anh-du-an-1.jpg" width="245" height="248">
+                                <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/08/TIR-Hinh-anh-du-an-1.jpg" width="245" height="248">
                             </div>
                         </div>
 
