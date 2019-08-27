@@ -1,3 +1,4 @@
+<?php if(ICL_LANGUAGE_CODE=='vi'): ?>
 <div class="col-sm-4 padding30">
     <div class="video_ifm">
         <div class="text_sub_video"><span>Video News</span></div>
@@ -35,3 +36,42 @@
         </div>
     </div>
 </div>
+<?php elseif(ICL_LANGUAGE_CODE=='en'): ?>
+<div class="col-sm-4 padding30">
+    <div class="video_ifm">
+        <div class="text_sub_video"><span>Video News</span></div>
+        <div class="video-responsive">
+            <iframe width="350px" height="220" src="https://www.youtube.com/embed/WNzQY7XlJo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
+    </div>
+    <div class="hr-thin">
+        <hr>
+    </div>
+    <div class="user_pro">
+        <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
+        <div class="row">
+            <div class="col">
+                <div class="wpb_wrapper sub_news_cc">
+                    <div class="gap" style="line-height: 15px; height: 15px;"></div>
+                    <p><a style="color: #0072bc;" href="https://www.cofico.com.vn/thu-ngo/">Lê Đăng Xu</a></p>
+                    <p><a class="left_sub_b" href="https://www.cofico.com.vn/thu-ngo/">Chairman of BOD</a></p>
+                    <p><a class="left_sub_b" href="https://www.cofico.com.vn/thu-ngo/">Executive Chairman</a></p>
+                    <p><a class="left_sub_b" href="https://www.cofico.com.vn/thu-ngo/">COFICO</a></p>
+                </div>
+            </div>
+            <div class="col"><img class="card-img" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Mr-Xu-giamdoc-150x150.jpg"></div>
+            <p class="sub_user"><em>“COFICO will surely gradually achieve the standards of an international contractor and simultaneously possess the advantage of understanding the specific requirements of the local market. From there, we will optimize the gained values to become a desirable workplace, a trusted partner, a qualified and reputable contractor, and a legal entity with high social responsibility. Combining these factors, COFICO will surely become the most respected construction company in Vietnam.”</em></p>
+        </div>
+        <div class="hr-thin">
+            <hr>
+        </div>
+        <div>
+            <div class="text_sub_video"><span>COFICO'S CORE VALUES</span></div>
+        </div>
+        <div class="img_cofico">
+            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+        </div>
+    </div>
+</div>
+<?php endif; ?>
