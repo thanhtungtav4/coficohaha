@@ -441,11 +441,11 @@
             </section>
             <section class="du_an">
                 <div class="container">
-                    <h2 class="text_h2_center">Current Highlight Projects</h2>
+                    <h2 class="text_h2_center">CURRENT HIGHLIGHT PROJECTS</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
-                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/vistaverde-thumbnail1.jpg" width="245" height="248">
+                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2017/11/Casino-2.jpg" width="245" height="248">
                             </div>
                             <div class="col text_duan">
                                 <h4><a href="<?php echo get_option('siteurl') ?>/en/project/du-an-condotel-khu-phuc-hop-nam-hoi-an/" >Condotel – South Hoi An complex</a></h4>
@@ -491,8 +491,8 @@
                                 <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/02/3a-1024x682.jpg" width="245" height="248">
                             </div>
                         </div>
-                    </div>
-                    <div class="row duan_col">
+
+
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan ">
                                 <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg" width="245" height="248">
@@ -546,7 +546,7 @@
             </section>
             <section class="du_an_mobile" id="one">
                 <div class="container">
-                    <h2 class="text_h2_center">Current Highlight Projects</h2>
+                    <h2 class="text_h2_center">CURRENT HIGHLIGHT PROJECTS</h2>
                     <div class="owl-one owl-carousel css owl-theme">
                         <div class="item1">
                             <div class="col duan_dis">
