@@ -30,12 +30,12 @@
         <div class="row">
             <div class="col-lg-11 col-md-10 col-sm-9 col-8 hide_600">
                 <a class="navbar-brand float-left" href="<?php if(ICL_LANGUAGE_CODE=='vi'): ?><?php echo get_option('siteurl') ?>/<?php elseif(ICL_LANGUAGE_CODE=='en'): ?><?php echo get_option('siteurl') ?>/en
-             <?php endif; ?>"><img src="https://cofico.com.vn/wp-content/uploads/cofico-logo-1975.png" width="204" alt="COFICO"></a>
+             <?php endif; ?>"><img src="https://www.cofico.com.vn/wp-content/uploads/cofico-logo-1975.png" width="204" alt="COFICO"></a>
                 <span class="build-txt">Building A Better Future</span>
             </div>
             <div class="col-lg-11 col-md-10 col-sm-9 col-8 show_600 left-logo">
                 <a class="navbar-brand float-left" href="<?php if(ICL_LANGUAGE_CODE=='vi'): ?><?php echo get_option('siteurl') ?>/<?php elseif(ICL_LANGUAGE_CODE=='en'): ?><?php echo get_option('siteurl') ?>/en
-             <?php endif; ?>"><img src="https://cofico.com.vn/wp-content/uploads/cofico-logo-add.png" width="173"  alt="COFICO"></a>
+             <?php endif; ?>"><img src="https://www.cofico.com.vn/wp-content/uploads/cofico-logo-add.png" width="173"  alt="COFICO"></a>
             </div>
             <div class="col-lg-1 col-md-2 col-sm-3 col-4 user-lang-mt">
                 <div class="row">
