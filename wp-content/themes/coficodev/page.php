@@ -441,7 +441,7 @@
             </section>
             <section class="du_an">
                 <div class="container">
-                    <h2 class="text_h2_center">Current Highlight Projects</h2>
+                    <h2 class="text_h2_center">CURRENT TYPICAL PROJECTS</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
@@ -491,6 +491,9 @@
                                 <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/02/3a-1024x682.jpg" width="245" height="248">
                             </div>
                         </div>
+                    </div>
+                    <h2 class="text_h2_center">
+                        RECENTLY COMPLETED PROJECTS</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan ">
@@ -545,7 +548,7 @@
             </section>
             <section class="du_an_mobile" id="one">
                 <div class="container">
-                    <h2 class="text_h2_center">Current Highlight Projects</h2>
+                    <h2 class="text_h2_center">CURRENT TYPICAL PROJECTS</h2>
                     <div class="owl-one owl-carousel css owl-theme">
                         <div class="item1">
                             <div class="col duan_dis">
@@ -1268,7 +1271,7 @@
             </section>
             <section class="du_an">
                 <div class="container">
-                    <h2 class="text_h2_center">Các Dự Án Tiêu Biểu Gần Đây</h2>
+                    <h2 class="text_h2_center">CÁC DỰ ÁN TIÊU BIỂU ĐANG THỰC HIỆN</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
@@ -1319,6 +1322,8 @@
                             </div>
                         </div>
                     </div>
+                    <h2 class="text_h2_center">CÁC DỰ ÁN HOÀN THÀNH GẦN ĐÂY</h2>
+                    <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan ">
                                 <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg" width="245" height="248">
@@ -1372,7 +1377,7 @@
             </section>
             <section class="du_an_mobile" id="one">
                 <div class="container">
-                    <h2 class="text_h2_center">Các Dự Án Tiêu Biểu Gần Đây</h2>
+                    <h2 class="text_h2_center">CÁC DỰ ÁN TIÊU BIỂU ĐANG THỰC HIỆN</h2>
                     <div class="owl-one owl-carousel css owl-theme">
                         <div class="item1">
                             <div class="col duan_dis">
@@ -2067,7 +2072,7 @@
             </section>
             <section class="project-box-home-mt">
                 <div class="container-fluid">
-                    <h2 class="title_home_mt">Current Highlight Projects</h2>
+                    <h2 class="title_home_mt"> CURRENT TYPICAL PROJECTS</h2>
                     <div class="border_title"></div>
                     <div class="row ">
                         <div class="owl-one owl-carousel css owl-theme">
