@@ -492,7 +492,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan ">
                                 <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg" width="245" height="248">
