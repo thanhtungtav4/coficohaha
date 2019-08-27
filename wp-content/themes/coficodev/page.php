@@ -441,7 +441,7 @@
             </section>
             <section class="du_an">
                 <div class="container">
-                    <h2 class="text_h2_center">CURRENT TYPICAL PROJECTS</h2>
+                    <h2 class="text_h2_center">Current Highlight Projects</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
@@ -492,8 +492,6 @@
                             </div>
                         </div>
                     </div>
-                    <h2 class="text_h2_center">
-                        RECENTLY COMPLETED PROJECTS</h2>
                     <div class="row duan_col">
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan ">
@@ -548,7 +546,7 @@
             </section>
             <section class="du_an_mobile" id="one">
                 <div class="container">
-                    <h2 class="text_h2_center">CURRENT TYPICAL PROJECTS</h2>
+                    <h2 class="text_h2_center">Current Highlight Projects</h2>
                     <div class="owl-one owl-carousel css owl-theme">
                         <div class="item1">
                             <div class="col duan_dis">
