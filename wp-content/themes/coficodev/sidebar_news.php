@@ -16,7 +16,7 @@
                     <div class="gap" style="line-height: 15px; height: 15px;"></div>
                     <p><a style="color: #0072bc;" href="<?php echo get_option('siteurl') ?>/thu-ngo/">Lê Đăng Xu</a></p>
                     <p><a class="left_sub_b" href="<?php echo get_option('siteurl') ?>/thu-ngo/">Chủ tịch HĐQT</a></p>
-                    <p><a class="left_sub_b" href="<?php echo get_option('siteurl') ?>/thu-ngo/">Tổng Giám Đốc </a></p>
+                    <p><a class="left_sub_b" href="<?php echo get_option('siteurl') ?>/thu-ngo/">Chủ tịch Điều Hành</a></p>
                     <p><a class="left_sub_b" href="<?php echo get_option('siteurl') ?>/thu-ngo/">COFICO</a></p>
                 </div>
             </div>
