@@ -634,7 +634,7 @@
                                                     <p>Let’s do and achieve, together!</p>
                                                     <p>&nbsp;</p>
                                                     <p><strong>Le Dang Xu<br>
-                                                        </strong>Chairman &amp; CEO</p>
+                                                        </strong>Executive Chairman </p>
                                                     <div class="gap" style="line-height: 10px; height: 10px;"></div>
 
                                                 </div>
@@ -2874,7 +2874,7 @@
                                                         <p>Cùng nhau hành động, chúng ta sẽ thành công!</p>
                                                         <p><strong><br>
                                                                 Lê Đăng Xu<br>
-                                                            </strong>Chủ tịch Hội Đồng Quản Trị&nbsp;– Tổng Giám Đốc
+                                                            </strong>Chủ tịch Hội Đồng Quản Trị&nbsp;– Chủ tịch Điều hành
                                                         </p>
                                                         <div class="gap" style="line-height: 10px; height: 10px;"></div>
                                                     </div>
