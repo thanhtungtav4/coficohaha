@@ -1639,7 +1639,6 @@
     <?php endif; ?>
     <?php if(ICL_LANGUAGE_CODE=='en'): ?>
         <div class="show_mobile">
-
             <section class="news-home-box-mt">
 
                 <div class="container-fluid">
@@ -2270,6 +2269,78 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+            <section class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="video_ifm">
+                            <div class="text_sub_video"><span>Video News</span></div>
+                            <div class="video-responsive">
+                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row" style="
+    padding-top: 15px;
+">
+
+                    <div class="col">
+                        <div class="text_sub_video"><span>COFICO'S CORE VALUES</span></div>
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="row">
+                            <div class="col">
+                                <a href="#">
+                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
+                                    <p><strong>Maeda</strong></p>
+                                </a><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
+
+                            </div>
+                            <div class="col">
+                                <img src="https://www.cofico.com.vn/wp-content/uploads/2015/02/mr-obara-koichi.png" class="card-img">
+                            </div>
+                            <p class="sub_user">One of reasons why Maeda decided investing in COFICO is that COFICO is a reliable partner with whom Maeda can grow.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+
+                        <div class="row">
+
+                            <div class="col">
+                                <a href="#">
+                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
+                                </a><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon<br>
+                                        Construction</strong></a><br>
+                                <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
+
+                            </div>
+                            <div class="col">
+                                <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
+                            </div>
+                            <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>(Gammon Contruction is owned by Jardine Matheson Group and Balfour Beatty)</strong></a><br>COFICO is a leading Vietnamese contractor with an extensive track record of delivering high quality projects.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="hr-thin">
+                        <hr>
+                    </div>
+                    <div class="col">
+                        <div class="text_sub_video"><span>COFICO'S CORE VALUES</span></div>
+                        <div class="img_cofico">
+                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <img width="237" height="237" src="wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
                         </div>
                     </div>
 
