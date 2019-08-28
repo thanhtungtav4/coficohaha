@@ -1755,6 +1755,7 @@ span.wpcf7-not-valid-tip {
     }
     .mt-menu-1 #menu-main-menu{
         display: grid;
+        width: 100%;
     }
     .menu-toggle-grippy {
         border-bottom: 5px solid #000;
