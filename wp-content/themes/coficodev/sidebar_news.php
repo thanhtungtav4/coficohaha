@@ -34,7 +34,7 @@
                     <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
             </div><div>
                 <div class="text_sub_video"><span>
-safe</span></div></div><div class="img_cofico">
+REPUTABLE BRAND FOR HEALTH, SAFETY & ENVIRONMENT</span></div></div><div class="img_cofico">
                 <img src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
             </div></div>
     </div>
@@ -80,7 +80,7 @@ safe</span></div></div><div class="img_cofico">
                 <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer"><br>
                     <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
             </div><div>
-                <div class="text_sub_video"><span>An Toàn</span></div>
+                <div class="text_sub_video"><span>THƯƠNG HIỆU UY TÍN VỀ AN TOÀN, THÂN THIỆN MÔI TRƯỜNG</span></div>
             </div><div class="img_cofico">
                 <img width="350" height="250" src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
             </div>
