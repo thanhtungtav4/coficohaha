@@ -2286,17 +2286,11 @@
                     </div>
                 </div>
 
-                <div class="row" style="
-    padding-top: 15px;
-">
-
+                <div class="row" style="padding-top: 15px;">
                     <div class="col">
-                        <div class="text_sub_video"><span>COFICO'S CORE VALUES</span></div>
-
+                        <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
                     </div>
-
                 </div>
-
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="row">
@@ -3036,9 +3030,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="row" style="
-    padding: 15px 0;
-">
+                <div class="row" style="padding-top: 15px;">
+                    <div class="col">
+                        <div class="text_sub_video"><span>Cổ Đông Chiến Lược</span></div>
+                    </div>
+                </div>
+                <div class="row" >
                     <div class="col-sm-6">
                         <div class="row">
                             <div class="col">
