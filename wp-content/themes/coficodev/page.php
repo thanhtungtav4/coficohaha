@@ -457,7 +457,7 @@
                         </div>
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
-                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/03/Hoya4.jpg" width="245" height="248">
+                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/08/Hoya_1-1-700x406.jpg" width="245" height="248">
                             </div>
                             <div class="col text_duan">
                                 <h4><a href="<?php echo get_option('siteurl') ?>/en/project/nha-may-hoya-lens/" >Hoya Lens</a></h4>
@@ -1285,7 +1285,7 @@
                         </div>
                         <div class="col-sm-6 duan_dis">
                             <div class="col img_duan">
-                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/03/Hoya4.jpg" width="245" height="248">
+                                <img class="img-responsive" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2019/08/Hoya_1-1-700x406.jpg" width="245" height="248">
                             </div>
                             <div class="col text_duan">
                                 <h4><a href="<?php echo get_option('siteurl') ?>/project/nha-may-hoya-lens/" >Hoya Lens</a></h4>
