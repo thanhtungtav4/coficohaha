@@ -1458,7 +1458,7 @@
                                                     <p>Cùng nhau hành động, chúng ta sẽ thành công!</p>
                                                     <p><strong><br>
                                                             Lê Đăng Xu<br>
-                                                        </strong>- Chủ tịch Hội Đồng Quản Trị – Chủ tịch Điều hành
+                                                        </strong> Chủ tịch Hội Đồng Quản Trị – Chủ tịch Điều hành
                                                     </p>
                                                     <div class="gap" style="line-height: 10px; height: 10px;"></div>
                                                 </div>
