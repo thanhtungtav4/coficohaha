@@ -2873,7 +2873,7 @@
                                                         <p>Đây chính là nét riêng của COFICO – Bảo tồn các giá trị cốt lõi: “Sự tôn trọng – sự tin cậy – làm việc nhóm – An toàn lao động” trong khi không ngừng đổi mới.</p>
                                                         <p>Cùng nhau hành động, chúng ta sẽ thành công!</p>
                                                         <p><strong><br>
-                                                                Lê Đăng Xu<br>
+                                                                Lê Đăng Xu <br>
                                                             </strong>Chủ tịch Hội Đồng Quản Trị&nbsp;– Chủ tịch Điều hành
                                                         </p>
                                                         <div class="gap" style="line-height: 10px; height: 10px;"></div>
