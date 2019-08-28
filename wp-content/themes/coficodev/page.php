@@ -2954,6 +2954,66 @@
                     </div>
                 </div>
             </section>
+            <section class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="video_ifm">
+                            <div class="text_sub_video"><span>Video News</span></div>
+                            <div class="video-responsive">
+                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="
+    padding: 15px 0;
+">
+                    <div class="col-sm-6">
+                        <div class="row">
+                            <div class="col">
+                                <a href="#">
+                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
+                                    <p><strong>Maeda</strong></p>
+                                </a><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
+
+                            </div>
+                            <div class="col">
+                                <img src="https://www.cofico.com.vn/wp-content/uploads/2015/02/mr-obara-koichi.png" class="card-img">
+                            </div>
+                            <p class="sub_user">Một trong những lý do Maeda quyết định đầu tư vào COFICO vì COFICO là một đối tác tin cậy và Maeda có thể đồng hành cùng nhau phát triển.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="row">
+                            <div class="col">
+                                <a href="#">
+                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
+                                </a><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon<br>
+                                        Construction</strong></a><br>
+                                <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
+
+                            </div>
+                            <div class="col">
+                                <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
+                            </div>
+                            <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>(Gammon Contruction được sở hữu bởi tập đoàn Jardine Matheson and Balfour Beatty)</strong></a><br>Một trong những lý do Maeda quyết định đầu tư vào COFICO vì COFICO là một đối tác tin cậy và Maeda có thể đồng hành cùng nhau phát triển.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="hr-thin">
+                        <hr>
+                    </div>
+                    <div class="col">
+                        <div class="text_sub_video"><span>GIÁ TRỊ CỐT LÕI CỦA COFICO</span></div>
+                        <div class="img_cofico">
+                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <img width="237" height="237" src="wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
             <section class="win">
                 <div class="container-fluid">
                     <h2 class="title_home_mt"> Giải Thưởng</h2>
