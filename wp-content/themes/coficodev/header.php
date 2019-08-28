@@ -76,6 +76,9 @@
     <section>
         <?php masterslider(1); ?>
     </section>
+    <?php if(ICL_LANGUAGE_CODE=='en'): ?>
+    <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
+    <?php endif; ?>
 </div>
 <div class="show_mobile">
     <section class="slider-mt1">
