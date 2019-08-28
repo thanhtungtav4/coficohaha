@@ -517,7 +517,15 @@ h2.entry-title a {
     display: inline-block; /* added */
     overflow: hidden; /* added */
 }
-
+.js-hiraku-header-fixed {
+    background: #ffffff;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    margin-left: 0 !important;
+}
 .profile-img-container:hover a {
     opacity: 1; /* added */
     top: 0; /* added */
