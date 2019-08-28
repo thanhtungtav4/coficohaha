@@ -2185,7 +2185,7 @@
                                                     <p>Let’s do and achieve, together!</p>
                                                     <p>&nbsp;</p>
                                                     <p><strong>Le Dang Xu<br>
-                                                        </strong>Chairman &amp; CEO</p>
+                                                        </strong>Executive Chairman </p>
                                                     <div class="gap" style="line-height: 10px; height: 10px;"></div>
 
                                                 </div>
