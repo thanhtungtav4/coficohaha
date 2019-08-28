@@ -2275,17 +2275,6 @@
                 </div>
             </section>
             <section class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="video_ifm">
-                            <div class="text_sub_video"><span>Video News</span></div>
-                            <div class="video-responsive">
-                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="row" style="padding-top: 15px;">
                     <div class="col">
                         <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
@@ -2338,6 +2327,16 @@
                         </div>
                     </div>
 
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="video_ifm">
+                            <div class="text_sub_video"><span>Video News</span></div>
+                            <div class="video-responsive">
+                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
             <section class="win">
@@ -3020,16 +3019,6 @@
                 </div>
             </section>
             <section class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="video_ifm">
-                            <div class="text_sub_video"><span>Video News</span></div>
-                            <div class="video-responsive">
-                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="row" style="padding-top: 15px;">
                     <div class="col">
                         <div class="text_sub_video"><span>Cổ Đông Chiến Lược</span></div>
@@ -3080,6 +3069,16 @@
                         </div>
                     </div>
 
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="video_ifm">
+                            <div class="text_sub_video"><span>Video News</span></div>
+                            <div class="video-responsive">
+                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
             <section class="win">
