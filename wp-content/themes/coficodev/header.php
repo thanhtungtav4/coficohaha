@@ -77,10 +77,10 @@
         <?php masterslider(1); ?>
     </section>
     <?php if(ICL_LANGUAGE_CODE=='en'): ?>
-        <div class="row">
-            <div class="container-fluid blue-home-mobile">
-                <h3 class="h3-title-home-blue">WE ARE NOT JUST BUILDING BUILDINGS,
-                    WE ARE BUILDING STRONG RELATIONSHIPS WITH CLIENTS AND PARTNERS</h3>
+        <div class="row blue-home">
+            <div class="center_text_home_blue">
+                <h2>WE ARE NOT JUST BUILDING BUILDINGS,</h2>
+                <h2>WE ARE BUILDING STRONG RELATIONSHIPS WITH CLIENTS AND PARTNERS</h2>
             </div>
         </div>
     <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
