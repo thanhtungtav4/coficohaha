@@ -96,5 +96,20 @@
     <section class="slider-mt1">
         <?php masterslider(4); ?>
     </section>
+    <?php if(ICL_LANGUAGE_CODE=='en'): ?>
+    <div class="row">
+        <div class="container-fluid blue-home-mobile">
+            <h3 class="h3-title-home-blue">WE ARE NOT JUST BUILDING BUILDINGS,
+                WE ARE BUILDING STRONG RELATIONSHIPS WITH CLIENTS AND PARTNERS</h3>
+        </div>
+    </div>
+    <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
+        <div class="row">
+            <div class="container-fluid blue-home-mobile">
+                <h3 class="h3-title-home-blue">CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH,
+                    MÀ CÒN<br> XÂY DỰNG MỐI QUAN HỆ TỐT ĐẸP VÀ BỀN VỮNG</h3>
+            </div>
+        </div>
+    <?php endif; ?>
 </div>
 
