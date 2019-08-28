@@ -2067,7 +2067,7 @@
             </section>
             <section class="project-box-home-mt">
                 <div class="container-fluid">
-                    <h2 class="title_home_mt"> CURRENT TYPICAL PROJECTS</h2>
+                    <h2 class="title_home_mt"> CURRENT HIGHLIGHT PROJECTS</h2>
                     <div class="border_title"></div>
                     <div class="row ">
                         <div class="owl-one owl-carousel css owl-theme">
@@ -2755,7 +2755,7 @@
             </section>
             <section class="project-box-home-mt">
                 <div class="container-fluid">
-                    <h2 class="title_home_mt"> Các Dự Án Tiêu Biểu Đang Thực Hiện</h2>
+                    <h2 class="title_home_mt"> CÁC DỰ ÁN TIÊU BIỂU GẦN ĐÂY</h2>
                     <div class="border_title"></div>
                     <div class="row ">
                         <div class="owl-one owl-carousel css owl-theme">
