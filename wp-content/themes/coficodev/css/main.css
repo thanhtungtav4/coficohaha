@@ -1713,6 +1713,9 @@ span.wpcf7-not-valid-tip {
         padding:0;
         margin:0;
     }
+    .js-hiraku-offcanvas-active .js-hiraku-offcanvas-sidebar{
+        z-index: 99999;
+    }
     #menu-main-menu-english0{
         display: grid;
         padding-left: 10px;
