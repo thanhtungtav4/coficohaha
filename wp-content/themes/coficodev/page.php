@@ -830,12 +830,6 @@
     <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
         <?php get_header(); ?>
         <div class="hide_mobile">
-            <div class="row blue-home">
-                <div class="center_text_home_blue">
-                    <h2>CHÚNG TÔI KHÔNG CHỈ XÂY DỰNG CÔNG TRÌNH,</h2>
-                    <h2>MÀ CÒN XÂY DỰNG MỐI QUAN HỆ TỐT ĐẸP VÀ BỀN VỮNG</h2>
-                </div>
-            </div>
             <section class="container">
                 <div class="row">
                     <?php
@@ -1651,14 +1645,8 @@
     <?php endif; ?>
     <?php if(ICL_LANGUAGE_CODE=='en'): ?>
         <div class="show_mobile">
-            <div class="row">
-                <div class="container-fluid blue-home-mobile">
-                    <h3 class="h3-title-home-blue">WE ARE NOT JUST BUILDING BUILDINGS,
-                        WE ARE BUILDING STRONG RELATIONSHIPS WITH CLIENTS AND PARTNERS</h3>
-                </div>
-            </div>
+          <!--is title-->
             <section class="news-home-box-mt">
-
                 <div class="container-fluid">
 
                     <div class="row">
