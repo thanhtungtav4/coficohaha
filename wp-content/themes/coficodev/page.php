@@ -3068,7 +3068,7 @@
                             <div class="col">
                                 <a href="#">
                                     <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
-                                </a><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon<br>
+                                </a><br><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon<br>
                                         Construction</strong></a><br>
                                 <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
 
