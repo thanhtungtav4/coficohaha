@@ -3037,7 +3037,7 @@
         })
 
     </script>
-    <?php include('footer_home.php');?>
+    <?php get_footer(); ?>
     <!-- !is home page-->
 <?php elseif(!is_home()): ?>
     <?php get_header(); ?>
@@ -3063,6 +3063,222 @@
             <!-- /article -->
         <?php endif; ?>
         <!-- /section -->
+        <div class="show_mobile">
+            <?php if(ICL_LANGUAGE_CODE=='en'): ?>
+                <section class="project-box-home-mt">
+                    <div class="container-fluid">
+                        <h2 class="title_home_mt"> CURRENT HIGHLIGHT PROJECTS</h2>
+                        <div class="border_title"></div>
+                        <div class="row ">
+                            <div class="owl-one owl-carousel css owl-theme">
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/vistaverde-thumbnail1.jpg">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/en/project/vista-verde-residental/">VISTA VERDE RESIDENTIAL</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Project:</strong> VISTA VERDE RESIDENTIAL
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Address:</strong> Dist.2, HCMC
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/en/project/vista-verde-residental/" class="more_duan">+ Read more...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/banner-home-21.png">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/en/project/du-an-estella-heights-2/">ESTELLA HEIGHTS 2</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Project::</strong>  Estella Heights 2
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Address:</strong> Dist.2, HCMC
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/en/project/du-an-estella-heights-2/" class="more_duan">+ Read more...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/en/project/du-an-can-ho-hausneo/">HAUSNEO APARTMENT</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Project::</strong>  HAUSNEO APARTMENT
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Address:</strong> Dist.9, HCMC
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/en/project/du-an-can-ho-hausneo/" class="more_duan">+ Read more...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/gateway-thao-dien.jpg">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/en/project/can-ho-gateway-thao-dien/">GATEWAY THAO DIEN</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Project::</strong>  GATEWAY THAO DIEN
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Address:</strong> Dist.2, HCMC
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/en/project/can-ho-gateway-thao-dien/" class="more_duan">+ Read more...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+            <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
+                <section class="project-box-home-mt">
+                    <div class="container-fluid">
+                        <h2 class="title_home_mt"> CÁC DỰ ÁN TIÊU BIỂU GẦN ĐÂY</h2>
+                        <div class="border_title"></div>
+                        <div class="row ">
+                            <div class="owl-one owl-carousel css owl-theme">
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/vistaverde-thumbnail1.jpg">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/project/vista-verde-residental/">VISTA VERDE</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Dự Án:</strong> Vista Verde
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Địa điểm:</strong> Q.2, TP.HCM
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/project/vista-verde-residental/" class="more_duan">+ Xem Thêm...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/banner-home-21.png">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/">ESTELLA HEIGHTS 2</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Dự Án:</strong>  Estella Heights 2
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Địa điểm:</strong> Q.2, TP.HCM
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/project/du-an-estella-heights-2/" class="more_duan">+ Xem Thêm...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/hausneo_031.jpg">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/project/du-an-can-ho-hausneo/">CĂN HỘ HAUSNEO</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Dự Án:</strong>  Căn Hộ Hausneo
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Địa điểm:</strong> Q.9, TP.HCM
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/project/du-an-can-ho-hausneo/" class="more_duan">+ Xem Thêm...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item1">
+                                    <div class="col-md-4 list-project-item">
+                                        <div class="card mb-4">
+                                            <img class="card-img-top" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/gateway-thao-dien.jpg">
+                                            <div class="card-body content-box-card">
+                                                <p class="h4-titile-project"><a href="<?php echo get_option('siteurl') ?>/project/can-ho-gateway-thao-dien/">GATEWAY THẢO ĐIỀN</a></p>
+                                                <p class="project-home-content">
+                                                    <strong>Dự Án:</strong>  GATEWAY THẢO ĐIỀN
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <strong>Địa điểm:</strong> Q.2, TP.HCM
+                                                </p>
+                                                <p class="project-home-content">
+                                                    <a href="<?php echo get_option('siteurl') ?>/project/can-ho-gateway-thao-dien/" class="more_duan">+ Xem Thêm...</a>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+            <?php endif; ?>
+            <script>
+                $(document).ready(function() {
+                    var owl = $('.owl-carousel');
+                    owl.owlCarousel({
+                        loop: true,
+                        items:4,
+                        margin: 10,
+                        autoplay: true,
+                        autoplayTimeout: 1300,
+                        autoplayHoverPause: true,
+                        responsiveClass:true,
+                        responsive:{
+                            320:{
+                                items:2,
+                                nav:false
+                            },
+                            475:{
+                                items:3,
+                                nav:false
+                            },
+                            700:{
+                                items:4,
+                                nav:false
+                            },
+                        }
+                    });
+                })
+
+            </script>
+        </div>
     </main>
 
     <?php get_footer(); ?>
