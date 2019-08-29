@@ -17,7 +17,7 @@
                                 array(
                                     'taxonomy' => 'lshowcase-categories',
                                     'field'    => 'slug',
-                                    'terms'    => ['khach-hang','khach-hang-eng',]
+                                    'terms'    => ['khach-hang']
                                 ),
                             )
                         );
