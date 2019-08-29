@@ -1,6 +1,8 @@
 <!-- Back to top button -->
 <a id="button"></a>
+<div class="hide_is_home">
 <?php  require get_template_directory() . '/list-du-an-mobile.php';?>
+</div>
 <!-- footer is show all page -->
      <section class="win">
     <div class="container-fluid">

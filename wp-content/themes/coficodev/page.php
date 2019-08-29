@@ -1,4 +1,9 @@
 <?php if(is_front_page()): ?>
+    <style>
+        .hide_is_home{
+            display: none;
+        }
+    </style>
     <?php if(ICL_LANGUAGE_CODE=='en'): ?>
         <?php get_header(); ?>
         <div class="hide_mobile">
