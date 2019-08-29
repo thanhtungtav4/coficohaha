@@ -1713,6 +1713,9 @@ span.wpcf7-not-valid-tip {
         padding:0;
         margin:0;
     }
+    .js-hiraku-offcanvas-body-right{
+        width: 900px !important;
+    }
     .slider-mt1{
         padding-top: 65px;
     }
