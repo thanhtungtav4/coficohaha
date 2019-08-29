@@ -762,10 +762,10 @@
                                     <a href="#">
                                         <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Gammonlogo2.jpg">
                                     </a>
-                                    <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon
-                                           </strong></a><br>
-                                    <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>
-                                            Construction</strong></a><br>
+                                   <p> <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon
+                                           </strong></a></p>
+                                    <p> <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>
+                                            Construction</strong></a><br></p>
                                     <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
 
                                 </div>
