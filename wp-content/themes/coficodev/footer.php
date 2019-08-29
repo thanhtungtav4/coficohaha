@@ -2,8 +2,6 @@
 <a id="button"></a>
 <!-- footer is show all page -->
 <?php if(is_front_page()): ?>
-
-<?php elseif(!is_home()): ?>
     <div class="show_mobile">
         <?php if(ICL_LANGUAGE_CODE=='en'): ?>
             <section class="project-box-home-mt">
@@ -288,6 +286,8 @@
         })
 
     </script>
+<?php elseif(!is_home()): ?>
+
 <?php endif; ?>
 <!-- end footer-->
 <section class="footer_mobile hide_mobile">
