@@ -3208,6 +3208,74 @@
             <!-- /article -->
         <?php endif; ?>
         <!-- /section -->
+        <section class="win">
+            <div class="container-fluid">
+                <h2 class="title_home_mt">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> ACHIEVEMENT  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> Giải Thưởng   <?php endif; ?> </h2>
+                <div class="border_title"></div>
+                <div class="row">
+                    <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(-2695px, 0px, 0px); transition: all 0.25s ease 0s; width: 5880px;">
+                                <?php
+                                global $sitepress;
+                                $args = array(
+                                    'post_type' => 'lshowcase',
+                                    'tax_query' => array(
+                                        array(
+                                            'taxonomy' => 'lshowcase-categories',
+                                            'field'    => 'slug',
+                                            'terms'    => ['thanh-tuu','thanh-tuu-eng',]
+                                        ),
+                                    )
+                                );
+                                $wp_query = new WP_Query( $args );
+                                //         var_dump($wp_query);
+                                while( $wp_query->have_posts() ): $wp_query->the_post();
+                                    ?>
+                                    <div class="owl-item">
+                                        <div class="item">
+                                            <?php the_post_thumbnail('img-responsive'); ?>
+                                            <p><?php the_title(); ?></p>
+                                        </div>
+                                    </div>
+                                <?php
+                                endwhile;
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script>
+            $(document).ready(function() {
+                var owl = $('.owl-carousel');
+                owl.owlCarousel({
+                    loop: true,
+                    items:4,
+                    margin: 10,
+                    autoplay: true,
+                    autoplayTimeout: 1300,
+                    autoplayHoverPause: true,
+                    responsiveClass:true,
+                    responsive:{
+                        320:{
+                            items:2,
+                            nav:false
+                        },
+                        475:{
+                            items:2,
+                            nav:false
+                        },
+                        700:{
+                            items:4,
+                            nav:false
+                        },
+                    }
+                });
+            })
+
+        </script>
     </main>
     <?php get_footer(); ?>
 <?php endif; ?>
