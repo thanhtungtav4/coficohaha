@@ -736,7 +736,7 @@
                         <div class="video_ifm">
                             <div class="text_sub_video"><span>Video News</span></div>
                             <div class="video-responsive">
-                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                                <iframe width="350" height="220" src="https://www.youtube.com/embed/6NOw18qZFkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                         <div class="hr-thin">
@@ -1558,8 +1558,8 @@
                         <div class="video_ifm">
                             <div class="text_sub_video"><span>Video News</span></div>
                             <div class="video-responsive">
-                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                            </div>
+                                <iframe width="350" height="220" src="https://www.youtube.com/embed/6NOw18qZFkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                             </div>
                         </div>
                         <div class="hr-thin">
                             <hr>
@@ -2352,7 +2352,7 @@
                         <div class="video_ifm">
                             <div class="text_sub_video"><span>Video News</span></div>
                             <div class="video-responsive">
-                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                                <iframe width="350" height="220" src="https://www.youtube.com/embed/6NOw18qZFkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -3101,7 +3101,7 @@
                         <div class="video_ifm">
                             <div class="text_sub_video"><span>Video News</span></div>
                             <div class="video-responsive">
-                                <iframe width="350px" height="220" src="https://www.youtube.com/embed/koz-eJ6tWCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                                <iframe width="350" height="220" src="https://www.youtube.com/embed/6NOw18qZFkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
