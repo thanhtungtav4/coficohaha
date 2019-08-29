@@ -2,7 +2,7 @@
 <a id="button"></a>
 <!-- footer is show all page -->
    <!-- is home-->
-<?php if(!is_front_page()): ?>
+<?php if(is_front_page()): ?>
     <div class="show_mobile">
         <?php if(ICL_LANGUAGE_CODE=='en'): ?>
             <section class="project-box-home-mt">
