@@ -797,40 +797,6 @@
                     </div>
                 </div>
             </section>
-            <section class="container">
-                <h2 class="info_text">ACHIEVEMENT</h2>
-                <div class="owl-carousel owl-theme owl-loaded owl-drag">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(-2695px, 0px, 0px); transition: all 0.25s ease 0s; width: 5880px;">
-                            <?php
-                            global $sitepress;
-                            $args = array(
-                                'post_type' => 'lshowcase',
-                                'tax_query' => array(
-                                    array(
-                                        'taxonomy' => 'lshowcase-categories',
-                                        'field'    => 'slug',
-                                        'terms'    => ['thanh-tuu','thanh-tuu-eng',]
-                                    ),
-                                )
-                            );
-                            $wp_query = new WP_Query( $args );
-                            //                        var_dump($wp_query);
-                            while( $wp_query->have_posts() ): $wp_query->the_post();
-                                ?>
-                                <div class="owl-item">
-                                    <div class="item">
-                                        <?php the_post_thumbnail('img-responsive'); ?>
-                                        <p><?php the_title(); ?></p>
-                                    </div>
-                                </div>
-                            <?php
-                            endwhile;
-                            ?>
-                        </div>
-                    </div>
-                </div>
-            </section>
         </div>
     <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
         <?php get_header(); ?>
@@ -1614,40 +1580,6 @@
                                 <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
                                     <img width="237" height="237" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="container">
-                <h2 class="info_text">GIẢI THƯỞNG</h2>
-                <div class="owl-carousel owl-theme owl-loaded owl-drag">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(-2695px, 0px, 0px); transition: all 0.25s ease 0s; width: 5880px;">
-                            <?php
-                            global $sitepress;
-                            $args = array(
-                                'post_type' => 'lshowcase',
-                                'tax_query' => array(
-                                    array(
-                                        'taxonomy' => 'lshowcase-categories',
-                                        'field'    => 'slug',
-                                        'terms'    => ['thanh-tuu','thanh-tuu-eng',]
-                                    ),
-                                )
-                            );
-                            $wp_query = new WP_Query( $args );
-                            //                        var_dump($wp_query);
-                            while( $wp_query->have_posts() ): $wp_query->the_post();
-                                ?>
-                                <div class="owl-item">
-                                    <div class="item">
-                                        <?php the_post_thumbnail('img-responsive'); ?>
-                                        <p><?php the_title(); ?></p>
-                                    </div>
-                                </div>
-                            <?php
-                            endwhile;
-                            ?>
                         </div>
                     </div>
                 </div>
