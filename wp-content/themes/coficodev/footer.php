@@ -4,7 +4,7 @@
 <?php  require get_template_directory() . '/list-du-an-mobile.php';?>
 </div>
 <!-- footer is show all page -->
-     <section class="win">
+     <section class="win" style="display: none">
     <div class="container-fluid">
         <h2 class="title_home_mt">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> OUR CLIENTS  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> Danh sách khách hàng   <?php endif; ?> </h2>
         <div class="border_title"></div>
