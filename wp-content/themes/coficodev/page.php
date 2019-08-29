@@ -3037,7 +3037,7 @@
         })
 
     </script>
-    <?php get_footer(); ?>
+    <?php include('footer_home.php');?>
     <!-- !is home page-->
 <?php elseif(!is_home()): ?>
     <?php get_header(); ?>
