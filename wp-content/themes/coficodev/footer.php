@@ -1,7 +1,10 @@
 <!-- Back to top button -->
 <a id="button"></a>
 <!-- footer is show all page -->
-<?php if( !is_front_page() && !is_home() ) : ?>
+<?php if( is_front_page() && is_home() ) : ?>
+
+<?php else: ?>
+   <!-- is home-->
     <div class="show_mobile">
         <?php if(ICL_LANGUAGE_CODE=='en'): ?>
             <section class="project-box-home-mt">
@@ -286,8 +289,6 @@
         })
 
     </script>
-<?php elseif(is_home()): ?>
-   <!-- is home-->
 <?php endif; ?>
 <!-- end footer-->
 <section class="footer_mobile hide_mobile">
