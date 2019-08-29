@@ -762,6 +762,7 @@
                                     <a href="#">
                                         <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Gammonlogo2.jpg">
                                     </a>
+                                    <br>
                                    <p> <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon
                                            </strong></a></p>
                                     <p> <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>
@@ -771,7 +772,7 @@
                                 </div>
                                 <div class="col">
                                     <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
-                                </div>
+                                </div><br>
                                 <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>
                                             (Gammon Contruction is owned by Jardine Matheson Group and Balfour Beatty)</strong></a><br>COFICO is a leading Vietnamese contractor with an extensive track record of delivering high quality projects.</p>
                             </div>
