@@ -1,5 +1,6 @@
 <!-- Back to top button -->
 <a id="button"></a>
+<?php  require get_template_directory() . '/list-du-an-mobile.php';?>
 <!-- footer is show all page -->
      <section class="win">
     <div class="container-fluid">
