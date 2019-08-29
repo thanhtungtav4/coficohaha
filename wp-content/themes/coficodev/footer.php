@@ -2,6 +2,7 @@
 <a id="button"></a>
 <!-- footer is show all page -->
    <!-- is home-->
+<?php if(!is_front_page()): ?>
     <div class="show_mobile">
         <?php if(ICL_LANGUAGE_CODE=='en'): ?>
             <section class="project-box-home-mt">
@@ -218,6 +219,7 @@
 
         </script>
     </div>
+<?php endif; ?>
     <section class="win">
         <div class="container-fluid">
             <h2 class="title_home_mt">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> ACHIEVEMENT  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> Giải Thưởng   <?php endif; ?> </h2>
