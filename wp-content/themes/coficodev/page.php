@@ -2337,12 +2337,12 @@
                         <div class="text_sub_video"><span>COFICO'S CORE VALUES</span></div>
                         <div class="img_cofico">
                             <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                                <img width="237" height="237" src="/https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
                         </div>
                         <div class="text_sub_video"><span>REPUTABLE BRAND FOR HEALTH, SAFETY & ENVIRONMENT</span></div>
                         <div class="img_cofico">
                             <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
+                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
                         </div>
                     </div>
 
@@ -3084,14 +3084,14 @@
                         <div class="text_sub_video"><span>GIÁ TRỊ CỐT LÕI CỦA COFICO</span></div>
                         <div class="img_cofico">
                             <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
                         </div>
                         <div>
                             <div class="text_sub_video"><span>THƯƠNG HIỆU UY TÍN VỀ AN TOÀN, THÂN THIỆN MÔI TRƯỜNG</span></div>
                         </div>
                         <div class="img_cofico">
-                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
+
+                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm">
                         </div>
                     </div>
 
