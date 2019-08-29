@@ -1561,7 +1561,7 @@
                                 <div class="col">
                                     <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
                                 </div>
-                                <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>(Gammon Contruction được sở hữu bởi tập đoàn Jardine Matheson and Balfour Beatty)</strong></a><br>Một trong những lý do Maeda quyết định đầu tư vào COFICO vì COFICO là một đối tác tin cậy và Maeda có thể đồng hành cùng nhau phát triển.</p>
+                                <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>(Gammon Contruction được sở hữu bởi tập đoàn Jardine Matheson and Balfour Beatty)</strong></a><br></p>
                             </div>
                             <div class="hr-thin">
                                 <hr>
