@@ -1,7 +1,9 @@
 <!-- Back to top button -->
 <a id="button"></a>
 <!-- footer is show all page -->
-<?php if ( is_front_page() ) : ?>
+<?php if(is_front_page()): ?>
+
+<?php elseif(!is_home()): ?>
     <section class="win">
         <div class="container-fluid">
             <h2 class="title_home_mt">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> ACHIEVEMENT  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> Giải Thưởng   <?php endif; ?> </h2>
@@ -70,8 +72,6 @@
         })
 
     </script>
-<?php else: ?>
-
 <?php endif; ?>
 <!-- end footer-->
 <section class="footer_mobile hide_mobile">
