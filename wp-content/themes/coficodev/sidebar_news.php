@@ -10,6 +10,7 @@
         </div>
         <div class="user_pro">
             <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
+            <br>
             <div class="row">
                 <div class="col">
                     <div class="wpb_wrapper sub_news_cc">
@@ -50,7 +51,8 @@ REPUTABLE BRAND FOR HEALTH, SAFETY & ENVIRONMENT</span></div></div><div class="i
             <hr>
         </div>
         <div class="user_pro">
-            <div class="text_sub_video"><span>Cổ Đông Chiến Lược</span></div>
+            <div class="text_sub_video"><span>CỔ ĐÔNG CHIẾN LƯỢT</span></div>
+            <br>
             <div class="row">
                 <div class="col">
                     <div class="wpb_wrapper sub_news_cc">

@@ -859,6 +859,7 @@
                         </div>
                         <div class="user_pro">
                             <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
+                            <br>
                             <div class="row padding30">
                                 <div class="col">
                                     <a href="#">
@@ -1650,7 +1651,8 @@
                             <hr>
                         </div>
                         <div class="user_pro">
-                            <div class="text_sub_video"><span>Cổ Đông Chiến Lược</span></div>
+                            <div class="text_sub_video"><span>CỔ ĐÔNG CHIẾN LƯỢT</span></div>
+                            <br>
                             <div class="row">
                                 <div class="col">
                                     <a href="#">
@@ -2431,6 +2433,7 @@
                         <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
                     </div>
                 </div>
+                <br>
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="row">
@@ -3224,9 +3227,10 @@
             <section class="container">
                 <div class="row" style="padding-top: 15px;">
                     <div class="col">
-                        <div class="text_sub_video"><span>Cổ Đông Chiến Lược</span></div>
+                        <div class="text_sub_video"><span>CỔ ĐÔNG CHIẾN LƯỢT</span></div>
                     </div>
                 </div>
+                <br>
                 <div class="row" >
                     <div class="col-sm-6">
                         <div class="row">
