@@ -89,8 +89,8 @@
                 items:4,
                 margin: 10,
                 autoplay: true,
-                autoplayTimeout: 0,
-                autoplayHoverPause: false,
+                autoplayTimeout: 1300,
+                autoplayHoverPause: true,
                 responsiveClass:true,
                 responsive:{
                     320:{
