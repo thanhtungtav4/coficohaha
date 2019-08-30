@@ -1,7 +1,7 @@
 <?php if(ICL_LANGUAGE_CODE=='en'): ?>
     <div class="col-sm-4 padding30">
         <div class="video_ifm">
-            <div class="text_sub_video"><span>Video News</span></div>
+            <div class="text_sub_video"><span>VIDEO NEWS</span></div>
             <div class="video-responsive">
                 <iframe width="350" height="220" src="https://www.youtube.com/embed/6NOw18qZFkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div></div>
@@ -52,7 +52,7 @@
 <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
     <div class="col-sm-4 padding30">
         <div class="video_ifm">
-            <div class="text_sub_video"><span>Video News</span></div>
+            <div class="text_sub_video"><span>VIDEO NEWS</span></div>
             <div class="video-responsive">
                 <iframe width="350" height="220" src="https://www.youtube.com/embed/6NOw18qZFkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            </div>
