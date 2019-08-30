@@ -1893,7 +1893,7 @@ span.wpcf7-not-valid-tip {
     }
 }
 @media only screen and (width: 768px) {
-    .win .owl-item .item img{
+   .owl-item .item img{
         max-width: 145px;
     }
     .build-txt {
