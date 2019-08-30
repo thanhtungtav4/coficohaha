@@ -4,7 +4,7 @@
 <?php  require get_template_directory() . '/list-du-an-mobile.php';?>
 </div>
 <!-- footer is show all page -->
-<section class="win" style="display: none;">
+<section class="win">
     <div class="container-fluid">
         <h2 class="title_home_mt mt-list-active-sider">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> CLIENTS & PARTNERS  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> GIẢI THƯỞNG & CHỨNG NHẬN   <?php endif; ?> </h2>
         <div class="border_title"></div>
@@ -89,7 +89,9 @@
                 items:4,
                 margin: 10,
                 autoplay: true,
-                autoplayTimeout: 1300,
+                slideTransition: 'linear',
+                autoplayTimeout: 0,
+                autoplaySpeed: 3000,
                 autoplayHoverPause: true,
                 responsiveClass:true,
                 responsive:{

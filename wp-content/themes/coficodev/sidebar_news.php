@@ -26,7 +26,7 @@
             <div class="hr-thin">
                 <hr>
             </div>
-
+sub
             <div>
                 <div class="text_sub_video"><span>COFICO’S CORE VALUES</span></div></div>
 
