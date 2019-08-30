@@ -89,7 +89,6 @@
                 items:4,
                 margin: 10,
                 autoplay: true,
-                slideTransition: 'linear',
                 autoplayTimeout: 0,
                 autoplaySpeed: 5000,
                 autoplayHoverPause: false,
