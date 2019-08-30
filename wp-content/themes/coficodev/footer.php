@@ -6,7 +6,7 @@
 <!-- footer is show all page -->
 <section class="win" style="display: none;">
     <div class="container-fluid">
-        <h2 class="title_home_mt">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> CLIENTS & PARTNERS  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> GIẢI THƯỞNG & CHỨNG NHẬN   <?php endif; ?> </h2>
+        <h2 class="title_home_mt mt-list-active-sider">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> CLIENTS & PARTNERS  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> GIẢI THƯỞNG & CHỨNG NHẬN   <?php endif; ?> </h2>
         <div class="border_title"></div>
         <div class="row">
             <div class="owl-carousel owl-theme owl-loaded owl-drag">
@@ -44,7 +44,7 @@
    <!-- is home-->
     <section class="win">
         <div class="container-fluid">
-            <h2 class="title_home_mt">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> AWARDS & RECOGNITION <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> GIẢI THƯỞNG & CHỨNG NHẬN <?php endif; ?> </h2>
+            <h2 class="title_home_mt mt-list-active-sider">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> AWARDS & RECOGNITION <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?> GIẢI THƯỞNG & CHỨNG NHẬN <?php endif; ?> </h2>
             <div class="border_title"></div>
             <div class="row">
                 <div class="owl-carousel owl-theme owl-loaded owl-drag">

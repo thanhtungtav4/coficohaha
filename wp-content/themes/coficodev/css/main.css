@@ -1714,6 +1714,21 @@ span.wpcf7-not-valid-tip {
         padding:0;
         margin:0;
     }
+    .win .mt-list-active-sider{
+        color: #0072bc;
+        background-color: #dcddde;
+        padding: 6px 15px;
+        font-weight: 500;
+        margin: 10px 15px;
+        text-align: left;
+        font-size: 13px;
+        line-height: 22px;
+
+    }
+    .win .container-fluid{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
     .js-hiraku-offcanvas-body-right{
         width: 900px !important;
     }
