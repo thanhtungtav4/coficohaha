@@ -91,8 +91,8 @@
                 autoplay: true,
                 slideTransition: 'linear',
                 autoplayTimeout: 0,
-                autoplaySpeed: 3000,
-                autoplayHoverPause: true,
+                autoplaySpeed: 5000,
+                autoplayHoverPause: false,
                 responsiveClass:true,
                 responsive:{
                     320:{
