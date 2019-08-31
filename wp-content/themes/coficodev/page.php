@@ -864,7 +864,7 @@
                                 <div class="col">
                                     <a href="#">
                                         <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Maedalogo2.jpg">
-                                        <p><strong>Maeda Corporation</strong></p>
+                                    <br>  <strong>Maeda Corporation</strong>
                                         <a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
                                     </a>
                                 </div>
@@ -1662,7 +1662,7 @@
                                 <div class="col">
                                     <a href="#">
                                         <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Maedalogo2.jpg">
-                                        <p><strong>Maeda Corporation</strong></p>
+                                      <br> <strong>Maeda Corporation</strong>
                                         <a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
                                     </a>
                                 </div>
@@ -2450,7 +2450,7 @@
                             <div class="col">
                                 <a href="#">
                                     <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
-                                    <p><strong>Maeda Corporation</strong></p>
+                              <br>   <strong>Maeda Corporation</strong>
                                 </a><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
 
                             </div>
@@ -3251,7 +3251,7 @@
                             <div class="col">
                                 <a href="#">
                                     <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
-                                    <p><strong>Maeda Corporation</strong></p>
+                                 <br>  <strong>Maeda Corporation</strong>
                                 </a><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
 
                             </div>
