@@ -1479,9 +1479,11 @@ span.wpcf7-not-valid-tip {
     line-height: 1.3rem;
     text-align: center;
     padding-bottom: 10px;
+    text-transform: uppercase;
 }
 .list-project-item .h4-titile-project a{
     color: #ffff;
+    text-transform: uppercase;
 }
 .project-home-content{
     font-weight: 500;
