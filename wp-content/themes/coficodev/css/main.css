@@ -287,6 +287,7 @@ h2.entry-title a {
 }
 .text_duan a{
     color: #007bff;
+    text-transform: uppercase;
 }
 .duan_col{
     margin: 0 auto;
