@@ -61,11 +61,12 @@
         <?php
         endwhile;
         ?>
+        <?php get_template_part('pagination'); ?>
     </div>
     </div>
     </div>
     <?php  require get_template_directory() . '/sidebar_news.php';?>
-        <?php get_template_part('pagination'); ?>
+
     </div>
     </section>
 
