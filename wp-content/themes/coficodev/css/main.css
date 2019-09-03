@@ -1707,7 +1707,7 @@ span.wpcf7-not-valid-tip {
     }
 }
 
-@media only screen and (max-width: 992px) {
+@media screen and (max-width: 992px) {
     .show_ipad{
         display: block;
         padding: 0 15px;
