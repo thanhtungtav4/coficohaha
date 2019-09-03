@@ -879,8 +879,8 @@
                                         <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Gammonlogo2.jpg">
                                     </a>
                                     <br>
-                                   <p> <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon Construction
-                                           </strong></a></p>
+                                   <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon Construction
+                                           </strong></a>
                                     <br>
                                     <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
 
