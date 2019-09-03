@@ -1657,7 +1657,7 @@
                         </div>
                         <div class="user_pro">
                             <div class="text_sub_video"><span>CỔ ĐÔNG CHIẾN LƯỢC</span></div>
-                            <br>
+                           <div class="padding20v"></div>
                             <div class="row">
                                 <div class="col">
                                     <a href="#">
@@ -2438,7 +2438,7 @@
                 </div>
             </section>
             <section class="container">
-                <div class="row" style="padding-top: 15px;">
+                <div class="row">
                     <div class="col">
                         <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
                     </div>
@@ -3239,7 +3239,7 @@
                 </div>
             </section>
             <section class="container">
-                <div class="row" style="padding-top: 15px;">
+                <div class="row">
                     <div class="col">
                         <div class="text_sub_video"><span>CỔ ĐÔNG CHIẾN LƯỢC</span></div>
                     </div>

@@ -830,7 +830,9 @@ html{
 header{
     text-align: -webkit-center;
 }
-
+.padding20v{
+    padding-top: 20px;
+}
 input[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
