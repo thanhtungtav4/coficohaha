@@ -81,7 +81,37 @@
             </div>
         </div>
     </section>
+    <script>
+        $(document).ready(function() {
+            var owl = $('.owl-carousel');
+            owl.owlCarousel({
+                loop: true,
+                items:4,
+                margin: 20,
+                autoplay: true,
+                slideTransition: 'linear',
+                autoplayTimeout: 0,
+                autoplaySpeed: 3000,
+                autoplayHoverPause: false,
+                responsiveClass:true,
+                responsive:{
+                    320:{
+                        items:2,
 
+                    },
+                    475:{
+                        items:2,
+
+                    },
+                    700:{
+                        items:5,
+
+                    },
+                }
+            });
+        })
+
+    </script>
 <!-- end footer-->
 <section class="footer_mobile hide_mobile">
     <div class="container footer_bg_copy">
@@ -333,37 +363,7 @@
     </script>
 
 <?php } ?>
-<script>
-    $(document).ready(function() {
-        var owl = $('.owl-carousel');
-        owl.owlCarousel({
-            loop: true,
-            items:4,
-            margin: 20,
-            autoplay: true,
-            slideTransition: 'linear',
-            autoplayTimeout: 0,
-            autoplaySpeed: 3000,
-            autoplayHoverPause: false,
-            responsiveClass:true,
-            responsive:{
-                320:{
-                    items:2,
 
-                },
-                475:{
-                    items:2,
-
-                },
-                700:{
-                    items:4,
-
-                },
-            }
-        });
-    })
-
-</script>
 <?php wp_footer()?>
 
 </body>
