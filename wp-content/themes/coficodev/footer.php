@@ -319,19 +319,19 @@
 </script>
 <?php if( is_front_page() && is_home() ) { ?>
 <?php } else { ?>
-    <script>
-        $(document).ready(function() {
-            var owl = $('.owl-carousel');
-            owl.owlCarousel({
-                items: 4,
-                loop: true,
-                margin: 10,
-                autoplay: true,
-                autoplayTimeout: 1300,
-                autoplayHoverPause: true
-            });
-        })
-    </script>
+<!--    <script>-->
+<!--        $(document).ready(function() {-->
+<!--            var owl = $('.owl-carousel');-->
+<!--            owl.owlCarousel({-->
+<!--                items: 4,-->
+<!--                loop: true,-->
+<!--                margin: 10,-->
+<!--                autoplay: true,-->
+<!--                autoplayTimeout: 1300,-->
+<!--                autoplayHoverPause: true-->
+<!--            });-->
+<!--        })-->
+<!--    </script>-->
     <script>
         $('.owl-one').owlCarousel({
             loop:true,
