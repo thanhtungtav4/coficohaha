@@ -481,7 +481,7 @@ h2.entry-title a {
     width: 237px;
     height: auto;
     margin: 0 auto;
-    padding-top: 20px 0;
+    padding: 20px 0;
 }
 .nav-pills li {
     background: #dcddde;
