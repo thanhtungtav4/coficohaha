@@ -58,11 +58,12 @@
                     </div>
 
                 </div>
-                <?php get_template_part('pagination'); ?>
+
             </div>
         <?php
         endwhile;
         ?>
+        <?php get_template_part('pagination'); ?>
     </div>
     </div>
     </div>
