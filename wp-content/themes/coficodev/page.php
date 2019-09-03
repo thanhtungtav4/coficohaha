@@ -3,6 +3,9 @@
         .hide_is_home{
             display: none;
         }
+        .show_ipad {
+            display: none!important;
+        }
     </style>
     <?php if(ICL_LANGUAGE_CODE=='en'): ?>
         <?php get_header(); ?>
