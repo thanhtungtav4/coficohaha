@@ -62,7 +62,9 @@
 </div>
 <!-- end show ipad=-->
 <!-- footer is show all page -->
-<section class="win">
+<section class="win" style="
+    margin-top: -10px;
+">
     <div class="container-fluid">
         <h2 class="title_home_mt mt-list-active-sider">  <?php if(ICL_LANGUAGE_CODE=='en'): ?> CLIENTS & PARTNERS  <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>  ĐỐI TÁC & KHÁCH HÀNG <?php endif; ?> </h2>
         <div class="border_title"></div>
