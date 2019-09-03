@@ -56,8 +56,9 @@
                                 Xem thêm...>
                             <?php endif; ?></a>
                     </div>
-                    <?php get_template_part('pagination'); ?>
+
                 </div>
+                <?php get_template_part('pagination'); ?>
             </div>
         <?php
         endwhile;
