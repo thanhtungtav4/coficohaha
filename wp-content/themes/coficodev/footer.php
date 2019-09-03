@@ -34,7 +34,7 @@
     </div>
     </div>
 <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
-    <div class="col padding30 ipad_box">
+    <div class="col padding30 ">
         <div class="user_pro">
             <div>
                 <div class="text_sub_video"><span>GIÁ TRỊ CỐT LÕI CỦA COFICO</span></div>
