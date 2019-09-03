@@ -6,7 +6,7 @@
 <!-- show ipad -->
 <div class="row show_ipad">
 <?php if(ICL_LANGUAGE_CODE=='en'): ?>
-    <div class="col padding30 ipad_box">
+    <div class="col padding30">
         <div>
             <div class="text_sub_video"><span>COFICO’S CORE VALUES</span></div>
         </div>
