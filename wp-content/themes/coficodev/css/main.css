@@ -481,7 +481,7 @@ h2.entry-title a {
     width: 237px;
     height: auto;
     margin: 0 auto;
-    padding-top: 20px;
+    padding-top: 20px 0;
 }
 .nav-pills li {
     background: #dcddde;
@@ -1893,6 +1893,7 @@ span.wpcf7-not-valid-tip {
 @media screen and (max-width: 768px) {
     .show_ipad{
         display: block!important;
+        padding: 0 15px;
     }
     .ipad_box{
         display: none!important;
