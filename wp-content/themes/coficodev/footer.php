@@ -90,22 +90,22 @@
                 margin: 20,
                 autoplay: true,
                 slideTransition: 'linear',
-                autoplayTimeout: 3000,
+                autoplayTimeout: 0,
                 autoplaySpeed: 3000,
                 autoplayHoverPause: false,
                 responsiveClass:true,
                 responsive:{
                     320:{
                         items:2,
-                        nav:false
+
                     },
                     475:{
                         items:2,
-                        nav:false
+
                     },
                     700:{
                         items:4,
-                        nav:false
+
                     },
                 }
             });
