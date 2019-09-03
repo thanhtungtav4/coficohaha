@@ -1708,6 +1708,13 @@ span.wpcf7-not-valid-tip {
 }
 
 @media only screen and (max-width: 992px) {
+    .show_ipad{
+        display: block;
+        padding: 0 15px;
+    }
+    .ipad_box{
+        display: none;
+    }
     header .container {
         padding:0;
         margin:0;
@@ -1891,13 +1898,6 @@ span.wpcf7-not-valid-tip {
     }
 }
 @media screen and (max-width: 768px) {
-    .show_ipad{
-        display: block;
-        padding: 0 15px;
-    }
-    .ipad_box{
-        display: none;
-    }
     .build-txt {
         font-size: 1.3rem;
     }
