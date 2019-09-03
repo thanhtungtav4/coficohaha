@@ -1890,7 +1890,7 @@ span.wpcf7-not-valid-tip {
         padding-left: 0px;
     }
 }
-@media only screen and (width: 768px) {
+@media screen and (max-width: 768px) {
     .show_ipad{
         display: block!important;
     }
