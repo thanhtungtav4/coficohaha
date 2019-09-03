@@ -1892,10 +1892,10 @@ span.wpcf7-not-valid-tip {
 }
 @media only screen and (width: 768px) {
     .show_ipad{
-        display: block;
+        display: block!important;
     }
     .ipad_box{
-        display: none;
+        display: none!important;
     }
     .build-txt {
         font-size: 1.3rem;
