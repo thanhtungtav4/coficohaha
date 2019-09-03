@@ -2451,7 +2451,7 @@
                                 <a href="#">
                                     <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
                               <br>   <strong>Maeda Corporation</strong>
-                                </a><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
+                                </a><br><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
 
                             </div>
                             <div class="col">
