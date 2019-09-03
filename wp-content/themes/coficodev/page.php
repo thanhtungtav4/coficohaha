@@ -2446,7 +2446,7 @@
                         <div class="text_sub_video"><span>INTERNATIONAL STRATEGIC SHAREHOLDERS</span></div>
                     </div>
                 </div>
-                <br>
+                <div class="magin20"></div>
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="row">
@@ -3247,7 +3247,7 @@
                         <div class="text_sub_video"><span>CỔ ĐÔNG CHIẾN LƯỢC</span></div>
                     </div>
                 </div>
-                <br>
+                <div class="magin20"></div>
                 <div class="row" >
                     <div class="col-sm-6">
                         <div class="row">
