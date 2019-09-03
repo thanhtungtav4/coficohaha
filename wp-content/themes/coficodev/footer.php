@@ -87,11 +87,11 @@
             owl.owlCarousel({
                 loop: true,
                 items:4,
-                margin: 10,
+                margin: 20,
                 autoplay: true,
                 slideTransition: 'linear',
-                autoplayTimeout: 6000,
-                autoplaySpeed: 6000,
+                autoplayTimeout: 3000,
+                autoplaySpeed: 3000,
                 autoplayHoverPause: false,
                 responsiveClass:true,
                 responsive:{
