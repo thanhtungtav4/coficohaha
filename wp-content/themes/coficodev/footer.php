@@ -90,8 +90,8 @@
                 margin: 20,
                 autoplay: true,
                 slideTransition: 'linear',
-                autoplayTimeout: 3000,
-                autoplaySpeed: 3000,
+                autoplayTimeout: 2000,
+                autoplaySpeed: 2000,
                 autoplayHoverPause: false,
                 responsiveClass:true,
                 responsive:{
