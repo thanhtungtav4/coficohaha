@@ -1649,6 +1649,12 @@ span.wpcf7-not-valid-tip {
     padding-left: 0px;
     width: 55px;
 }
+.show_ipad{
+    display: none;
+}
+.ipad_box{
+    display: block;
+}
 @media only screen and (min-width: 1000px) {
     nav > .js-hiraku-offcanvas{
         width: 100%;
@@ -1885,7 +1891,12 @@ span.wpcf7-not-valid-tip {
     }
 }
 @media only screen and (width: 768px) {
-
+    .show_ipad{
+        display: block;
+    }
+    .ipad_box{
+        display: none;
+    }
     .build-txt {
         font-size: 1.3rem;
     }

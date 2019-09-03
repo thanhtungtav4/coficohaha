@@ -1,5 +1,5 @@
 <?php if(ICL_LANGUAGE_CODE=='en'): ?>
-    <div class="col-sm-4 padding30">
+    <div class="col-sm-4 padding30 ipad_box">
         <div>
             <div class="text_sub_video"><span>COFICO’S CORE VALUES</span></div>
         </div>
@@ -27,7 +27,7 @@
     </div>
     </div>
 <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
-    <div class="col-sm-4 padding30">
+    <div class="col-sm-4 padding30 ipad_box">
         <div class="user_pro">
             <div>
                 <div class="text_sub_video"><span>GIÁ TRỊ CỐT LÕI CỦA COFICO</span></div>
