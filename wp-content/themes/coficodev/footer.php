@@ -86,7 +86,7 @@
             var owl = $('.owl-carousel');
             owl.owlCarousel({
                 loop: true,
-                items:5,
+                items:4,
                 margin: 20,
                 autoplay: true,
                 slideTransition: 'linear',
@@ -104,7 +104,7 @@
 
                     },
                     700:{
-                        items:5,
+                        items:4,
 
                     },
                 }

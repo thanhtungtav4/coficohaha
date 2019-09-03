@@ -3323,10 +3323,12 @@
             owl.owlCarousel({
                 loop: true,
                 items:4,
-                margin: 10,
+                margin: 20,
                 autoplay: true,
-                autoplayTimeout: 1300,
-                autoplayHoverPause: true,
+                slideTransition: 'linear',
+                autoplayTimeout: 2000,
+                autoplaySpeed: 2000,
+                autoplayHoverPause: false,
                 responsiveClass:true,
                 responsive:{
                     320:{
