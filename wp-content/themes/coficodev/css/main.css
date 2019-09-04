@@ -601,8 +601,8 @@ h2.entry-title a {
 .haha123 .trigger.collapsed .panel-title:after {
     content: unset;
 }
-.cms{
-    /*background-color: #fff;*/
+.cms .mb-4{
+    background-color: #fff;
 }
 .view-footer {
     width: 80%;
