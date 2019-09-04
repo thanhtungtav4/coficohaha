@@ -73,7 +73,7 @@
     </nav>
 </header>
 <div class="hide_mobile">
-    <section>
+    <section class="haha_magin">
         <?php masterslider(1); ?>
     </section>
     <?php if(ICL_LANGUAGE_CODE=='en'): ?>
