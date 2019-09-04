@@ -866,7 +866,9 @@
                             <div class="row padding30">
                                 <div class="col">
                                     <a href="#">
-                                        <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Maedalogo2.jpg">
+                                        <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Maedalogo2.jpg"  style="
+    height: 55px;
+">
                                     <br>  <strong>Maeda Corporation</strong>
                                         <a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
                                     </a>
@@ -1089,6 +1091,7 @@
                     );
                     $wp_query = new WP_Query( $args );
                     //                        var_dump($wp_query);
+
                     while( $wp_query->have_posts() ): $wp_query->the_post();
                         ?>
                         <div class="col-md-4">
@@ -1664,7 +1667,9 @@
                             <div class="row">
                                 <div class="col">
                                     <a href="#">
-                                        <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Maedalogo2.jpg">
+                                        <img src="<?php echo get_option('siteurl') ?>/wp-content/uploads/2014/10/Maedalogo2.jpg"  style="
+    height: 55px;
+">
                                       <br> <strong>Maeda Corporation</strong>
                                         <a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
                                     </a>
