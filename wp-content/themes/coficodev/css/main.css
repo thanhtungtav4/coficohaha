@@ -834,9 +834,22 @@ html{
 header{
     text-align: -webkit-center;
 }
+input[type="submit"],
+.wpcf7 input[type="email"],
+input[type="email"] {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 6px;
+    border-width:1px;
+    padding: 9px 10px 8px;
+}
+
 .padding20v{
     padding-top: 20px;
 }
+
 input[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
@@ -1322,6 +1335,9 @@ html {
 .list_item_footer a{
     color: #ffff;
     margin: 10px;
+}
+.wpcf7 input[type="email"], input[type="email"] {
+    font-size: 13px;
 }
 .footer_dang-ky {
     display: contents;

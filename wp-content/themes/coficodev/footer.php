@@ -147,7 +147,7 @@
             owl.owlCarousel({
                 loop: true,
                 items:4,
-                margin: 20,
+                margin: 10,
                 autoplay: true,
                 slideTransition: 'linear',
                 autoplayTimeout: 2000,
