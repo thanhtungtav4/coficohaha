@@ -598,6 +598,9 @@ h2.entry-title a {
 .footer .footer_left{
     padding-top: 27px;
 }
+.haha123 .trigger.collapsed .panel-title:after {
+    content: unset;
+}
 .view-footer {
     width: 80%;
     height: 50px;
