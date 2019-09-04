@@ -2452,7 +2452,9 @@
                         <div class="row">
                             <div class="col">
                                 <a href="#">
-                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
+                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg" style="
+    height: 55px;
+">
                               <br>   <strong>Maeda Corporation</strong>
                                 </a><br><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
 
@@ -3253,7 +3255,9 @@
                         <div class="row">
                             <div class="col">
                                 <a href="#">
-                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg">
+                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg" style="
+    height: 55px;
+">
                                  <br>  <strong>Maeda Corporation</strong>
                                 </a><br><a style="color: #0072bc;" href="https://www.maeda.co.jp/english.html">Website</a>
 
