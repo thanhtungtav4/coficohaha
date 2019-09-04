@@ -601,9 +601,6 @@ h2.entry-title a {
 .haha123 .trigger.collapsed .panel-title:after {
     content: unset;
 }
-.cms .mb-4{
-    background-color: #fff;
-}
 .view-footer {
     width: 80%;
     height: 50px;
@@ -1740,6 +1737,12 @@ span.wpcf7-not-valid-tip {
     }
     .ipad_box{
         display: none;
+    }
+    .cms .mb-4{
+        background-color: #fff;
+    }
+    .cms .col-md-4{
+        margin: 4px;
     }
     header .container {
         padding:0;
