@@ -602,7 +602,7 @@ h2.entry-title a {
     content: unset;
 }
 .cms{
-    background-color: #fff;
+    /*background-color: #fff;*/
 }
 .view-footer {
     width: 80%;
