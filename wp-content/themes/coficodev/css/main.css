@@ -1538,6 +1538,12 @@ span.wpcf7-not-valid-tip {
 .show_mobile{
     display: none;
 }
+.cms .mb-4{
+    background-color: #fff;
+}
+.cms .col-md-4{
+    margin: 4px;
+}
 .project-box-home-mt .owl-nav button {
     position: absolute;
     top: 50%;
@@ -1737,12 +1743,6 @@ span.wpcf7-not-valid-tip {
     }
     .ipad_box{
         display: none;
-    }
-    .cms .mb-4{
-        background-color: #fff;
-    }
-    .cms .col-md-4{
-        margin: 4px;
     }
     header .container {
         padding:0;
