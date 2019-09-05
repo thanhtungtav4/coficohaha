@@ -1,9 +1,9 @@
 <?php  get_header()?>
     <section class="container">
-        <div class="container">
+        <div class="">
 <!-- Tab panes -->
             <div class="tab-content">
-                <div id="home" class="container tab-pane active">
+                <div id="home" class="tab-pane active">
                     <br>
                     <div class="container">
                         <?php if(ICL_LANGUAGE_CODE=='en'): ?>

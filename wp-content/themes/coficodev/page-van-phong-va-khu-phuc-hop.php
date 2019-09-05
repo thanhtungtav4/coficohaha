@@ -1,11 +1,11 @@
 <?php  get_header()?>
     <section class="container">
-        <div class="container">
+        <div>
 <!-- Tab panes -->
             <div class="tab-content">
-                <div id="home" class="container tab-pane active">
+                <div id="home" class="tab-pane active">
                     <br>
-                    <div class="container">
+                    <div class="">
                         <?php if(ICL_LANGUAGE_CODE=='en'): ?>
                             <h2 class="info_text">Office & Complex Projects</h2>
                         <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
