@@ -54,12 +54,12 @@
 
 
         <!-- Tab panes -->
-        <div class="container">
+        <div>
 <!-- Tab panes -->
             <div class="tab-content">
-                <div id="home" class="container tab-pane active">
+                <div id="home" class="tab-pane active">
                     <br>
-                    <div class="container">
+                    <div>
                         <div class="row">
                             <?php
                             global $sitepress;
