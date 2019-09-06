@@ -1,4 +1,4 @@
-<?php  require_once( get_template_directory(). '/header_team.php' ); ?>
+<?php  require_once( get_template_directory(). '/header.php' ); ?>
 <section class="main-content container padding30">
     <div class="row">
         <div class="col-md-8">
