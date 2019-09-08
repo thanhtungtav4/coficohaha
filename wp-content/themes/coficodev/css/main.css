@@ -1918,6 +1918,12 @@ span.wpcf7-not-valid-tip {
         height: 43px;
         margin-top: 5px;
     }
+    .text-theme-color {
+        color: #0072bc;
+        background-color: #dcddde;
+        padding: 6px 10px;
+        font-weight: 500;
+    }
     .build-txt {
         font-size: 1.5rem;
     }
