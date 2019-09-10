@@ -75,6 +75,7 @@
                         <?php
                         global $sitepress;
                         $args = array(
+                            'posts_per_page' => -1,
                             'post_type' => 'lshowcase',
                             'tax_query' => array(
                                 array(
@@ -113,6 +114,7 @@
                             <?php
                             global $sitepress;
                             $args = array(
+                                'posts_per_page' => -1,
                                 'post_type' => 'lshowcase',
                                 'tax_query' => array(
                                     array(
