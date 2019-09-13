@@ -5,8 +5,8 @@
         </div>
 
         <div class="img_cofico">
-            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
-                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+            <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
+                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
         </div>
         <div>
             <div class="text_sub_video">
@@ -14,7 +14,7 @@
             </div>
         </div>
         <div class="img_cofico">
-            <img src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+            <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
         </div>
         <div>
             <div class="text_sub_video">
@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="img_cofico">
-            <img src="https://www.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+            <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
         </div>
     </div>
     </div>
@@ -34,20 +34,20 @@
             </div>
 
             <div class="img_cofico">
-                <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
-                    <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
+                    <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
             </div>
             <div>
                 <div class="text_sub_video"><span>UY TÍN VỀ AN TOÀN, SỨC KHOẺ & MÔI TRƯỜNG</span></div>
             </div>
             <div class="img_cofico">
-                <img width="350" height="250" src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
             </div>
             <div>
                 <div class="text_sub_video"><span>CÔNG NGHỆ HIỆN ĐẠI</span></div>
             </div>
             <div class="img_cofico">
-                <img width="350" height="250" src="https://www.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
             </div>
         </div>
     </div>

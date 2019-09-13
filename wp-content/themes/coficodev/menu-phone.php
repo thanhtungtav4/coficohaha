@@ -50,7 +50,7 @@
             </ul>
 
         </li>
-        <li><a href="https://www.cofico.com.vn/en/lien-he/">
+        <li><a href="https://www.stagging.cofico.com.vn/en/lien-he/">
                 CONTACT</a></li>
         <li>
             <?php do_action('icl_language_selector'); ?>
@@ -109,7 +109,7 @@
             </ul>
 
         </li>
-        <li><a href="https://www.cofico.com.vn/lien-he/">LIÊN HỆ</a></li>
+        <li><a href="https://www.stagging.cofico.com.vn/lien-he/">LIÊN HỆ</a></li>
         <li>
             <?php do_action('icl_language_selector'); ?>
         </li>

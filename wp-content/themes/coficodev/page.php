@@ -910,14 +910,14 @@
                                 <div class="text_sub_video"><span>REPUTATION FOR HEALTH, SAFETY & ENVIRONMENT</span></div>
                             </div>
                             <div class="img_cofico">
-                                <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
                                     <img width="237" height="237" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
                             </div>
                             <div>
                                 <div class="text_sub_video"><span>MODERN TECHNOLOGY</span></div>
                             </div>
                             <div class="img_cofico">
-                                <img width="350" height="250" src="https://www.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                                <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
                             </div>
                         </div>
                     </div>
@@ -1706,14 +1706,14 @@
                                 <div class="text_sub_video"><span>UY TÍN VỀ AN TOÀN, SỨC KHOẺ & MÔI TRƯỜNG</span></div>
                             </div>
                             <div class="img_cofico">
-                                <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
                                     <img width="237" height="237" src="<?php echo get_option('siteurl') ?>/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
                             </div>
                             <div>
                                 <div class="text_sub_video"><span>CÔNG NGHỆ HIỆN ĐẠI</span></div>
                             </div>
                             <div class="img_cofico">
-                                <img width="350" height="250" src="https://www.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                                <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
                             </div>
                         </div>
                     </div>
@@ -2457,7 +2457,7 @@
                         <div class="row">
                             <div class="col">
                                 <a href="#">
-                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg" style="
+                                    <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg" style="
     height: 55px;
 ">
                               <br>   <strong>Maeda Corporation</strong>
@@ -2465,7 +2465,7 @@
 
                             </div>
                             <div class="col">
-                                <img src="https://www.cofico.com.vn/wp-content/uploads/2015/02/mr-obara-koichi.png" class="card-img">
+                                <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2015/02/mr-obara-koichi.png" class="card-img">
                             </div>
                             <p class="sub_user">One of reasons why Maeda decided investing in COFICO is that COFICO is a reliable partner with whom Maeda can grow.</p>
                         </div>
@@ -2476,13 +2476,13 @@
 
                             <div class="col">
                                 <a href="#">
-                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
+                                    <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
                                 </a><br><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong> Gammon Construction </strong></a><br>
                                 <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
 
                             </div>
                             <div class="col">
-                                <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
+                                <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
                             </div>
                             <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>(Gammon Contruction is owned by Jardine Matheson Group and Balfour Beatty)</strong></a><br>COFICO is a leading Vietnamese contractor with an extensive track record of delivering high quality projects.</p>
                         </div>
@@ -2495,18 +2495,18 @@
                     <div class="col">
                         <div class="text_sub_video"><span>COFICO'S CORE VALUES</span></div>
                         <div class="img_cofico">
-                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                            <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
                         </div>
                         <div class="text_sub_video"><span>REPUTATION FOR HEALTH, SAFETY & ENVIRONMENT</span></div>
                         <div class="img_cofico">
-                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
+                            <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm"></a>
                         </div>
                         <div class="text_sub_video"><span>MODERN TECHNOLOGY</span></div>
                         <div class="img_cofico">
-                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="ZeroHarm"></a>
+                            <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="ZeroHarm"></a>
                         </div>
                     </div>
 
@@ -3260,7 +3260,7 @@
                         <div class="row">
                             <div class="col">
                                 <a href="#">
-                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg" style="
+                                    <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/Maedalogo2.jpg" style="
     height: 55px;
 ">
                                  <br>  <strong>Maeda Corporation</strong>
@@ -3268,7 +3268,7 @@
 
                             </div>
                             <div class="col">
-                                <img src="https://www.cofico.com.vn/wp-content/uploads/2015/02/mr-obara-koichi.png" class="card-img">
+                                <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2015/02/mr-obara-koichi.png" class="card-img">
                             </div>
                             <p class="sub_user">Một trong những lý do Maeda quyết định đầu tư vào COFICO vì COFICO là một đối tác tin cậy và Maeda có thể đồng hành cùng nhau phát triển.</p>
                         </div>
@@ -3277,13 +3277,13 @@
                         <div class="row">
                             <div class="col">
                                 <a href="#">
-                                    <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
+                                    <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/Gammonlogo2.jpg">
                                 </a><br><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>Gammon Construction</strong></a><br>
                                 <a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html">Website</a>
 
                             </div>
                             <div class="col">
-                                <img src="https://www.cofico.com.vn/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
+                                <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/Mr-Thomas-Ho1.jpg" class="card-img">
                             </div>
                             <p class="sub_user"><a style="color: #0072bc;" href="https://www.gammonconstruction.com/en/html/front/index.html"><strong>(Gammon Contruction được sở hữu bởi tập đoàn Jardine Matheson and Balfour Beatty)</strong></a><br>COFICO là một nhà thầu xây dựng hàng đầu tại Việt nam với năng lực chuyên môn đã được chứng minh bằng việc hoàn thành hàng loạt dự án chất lượng cao.</p>
                         </div>
@@ -3296,21 +3296,21 @@
                     <div class="col">
                         <div class="text_sub_video"><span>GIÁ TRỊ CỐT LÕI CỦA COFICO</span></div>
                         <div class="img_cofico">
-                            <a href="https://www.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
-                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                            <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self">
+                                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
                         </div>
                         <div>
                             <div class="text_sub_video"><span>UY TÍN VỀ AN TOÀN, SỨC KHOẺ & MÔI TRƯỜNG</span></div>
                         </div>
                         <div class="img_cofico">
 
-                                <img width="237" height="237" src="https://www.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm">
+                                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="ZeroHarm">
                         </div>
                         <div>
                             <div class="text_sub_video"><span>CÔNG NGHỆ HIỆN ĐẠI</span></div>
                         </div>
                         <div class="img_cofico">
-                            <img width="350" height="250" src="https://www.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                            <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
                         </div>
                     </div>
 

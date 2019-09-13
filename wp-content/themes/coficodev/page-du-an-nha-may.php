@@ -4,49 +4,49 @@
         <?php if(ICL_LANGUAGE_CODE=='en'): ?>
             <ul class="nav nav-pills" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link " href="https://www.cofico.com.vn/du-an/du-an-tieu-bieu/">View all</a>
+                    <a class="nav-link " href="https://www.stagging.cofico.com.vn/du-an/du-an-tieu-bieu/">View all</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/du-an/khu-dan-cu-can-ho/">Residential & Condominium</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/du-an/khu-dan-cu-can-ho/">Residential & Condominium</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/en/du-an/khu-phuc-hop/">Office & Complex Projects</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/en/du-an/khu-phuc-hop/">Office & Complex Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/en/du-an/khach-san/">Hotels & Resorts</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/en/du-an/khach-san/">Hotels & Resorts</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="https://www.cofico.com.vn/en/du-an/du-an-nha-may">Factories</a>
+                    <a class="nav-link active" href="https://www.stagging.cofico.com.vn/en/du-an/du-an-nha-may">Factories</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/en/du-an/benh-vien/">Hospitals & Schools</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/en/du-an/benh-vien/">Hospitals & Schools</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/en/du-an/san-bay/">Airports & Bridges</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/en/du-an/san-bay/">Airports & Bridges</a>
                 </li>
             </ul>
         <?php elseif(ICL_LANGUAGE_CODE=='vi'): ?>
             <ul class="nav nav-pills" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link " href="https://www.cofico.com.vn/du-an/du-an-tieu-bieu/">Tiêu Biểu</a>
+                    <a class="nav-link " href="https://www.stagging.cofico.com.vn/du-an/du-an-tieu-bieu/">Tiêu Biểu</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/du-an/khu-dan-cu-can-ho/">Khu dân cư & Căn hộ</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/du-an/khu-dan-cu-can-ho/">Khu dân cư & Căn hộ</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/du-an/khu-phuc-hop/">Văn phòng & Khu phức hợp</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/du-an/khu-phuc-hop/">Văn phòng & Khu phức hợp</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/du-an/khach-san/">Khách sạn & Resort</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/du-an/khach-san/">Khách sạn & Resort</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="https://www.cofico.com.vn/du-an/du-an-nha-may">Nhà máy</a>
+                    <a class="nav-link active" href="https://www.stagging.cofico.com.vn/du-an/du-an-nha-may">Nhà máy</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/du-an/benh-vien/">Bệnh viện & Trường học</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/du-an/benh-vien/">Bệnh viện & Trường học</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.cofico.com.vn/du-an/san-bay/">Sân bay & Cầu cảng</a>
+                    <a class="nav-link" href="https://www.stagging.cofico.com.vn/du-an/san-bay/">Sân bay & Cầu cảng</a>
                 </li>
             </ul>
 

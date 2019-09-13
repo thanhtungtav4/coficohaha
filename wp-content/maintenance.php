@@ -5,7 +5,7 @@
 //  DO NOT MODIFY THIS FILE BECAUSE IT WAS GENERATED AUTOMATICALLY,
 //  SO ALL YOUR CHANGES WILL BE LOST THE NEXT TIME THE FILE IS GENERATED.
 //  IF YOU REQUIRE TO APPLY CUSTOM MODIFICATIONS, PERFORM THEM IN THE FOLLOWING FILE:
-//  /var/www/vhosts/cofico.com.vn/httpdocs/wp-content/maintenance/template.phtml
+//  /var/www/vhosts/stagging.cofico.com.vn/httpdocs/wp-content/maintenance/template.phtml
 
 
 $protocol = $_SERVER['SERVER_PROTOCOL'];

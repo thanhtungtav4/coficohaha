@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/coficodev.iml" filepath="$PROJECT_DIR$/.idea/coficodev.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/cofico.com.vn.iml" filepath="$PROJECT_DIR$/.idea/cofico.com.vn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stagging.cofico.com.vn.iml" filepath="$PROJECT_DIR$/.idea/stagging.cofico.com.vn.iml" />
     </modules>
   </component>
 </project>
