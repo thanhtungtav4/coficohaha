@@ -243,7 +243,7 @@ h2.entry-title a {
     background-color: #ffffff;
 }
 .du_an{
-    background-image: url("https://www.stagging.cofico.com.vn/wp-content/uploads/2018/07/architecture-wallpaper-571BW_op.jpg");
+    background-image: url("https://stagging.cofico.com.vn/wp-content/uploads/2018/07/architecture-wallpaper-571BW_op.jpg");
 }
 .text_h2_center{
     color: #ffffff;
@@ -300,7 +300,7 @@ h2.entry-title a {
 .img_duan:after{
     content: '';
     position: absolute;
-    background: url('https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/prj-arrow-left.png') no-repeat top;
+    background: url('https://stagging.cofico.com.vn/wp-content/uploads/2014/10/prj-arrow-left.png') no-repeat top;
     width: 20px;
     background-size: 20px 40px;
     z-index: 9999;
@@ -318,7 +318,7 @@ h2.entry-title a {
 .img_duan2:after {
     content: '';
     position: absolute;
-    background: url('https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/prj-arrow-right.png') no-repeat top;
+    background: url('https://stagging.cofico.com.vn/wp-content/uploads/2014/10/prj-arrow-right.png') no-repeat top;
     width: 20px;
     background-size: 20px 40px;
     z-index: 9999;
@@ -712,7 +712,7 @@ h2.entry-title a {
 }
 .du_an_mobile{
     display: none;
-    background-image: url("https://www.stagging.cofico.com.vn/wp-content/uploads/2018/07/architecture-wallpaper-571BW_op.jpg");
+    background-image: url("https://stagging.cofico.com.vn/wp-content/uploads/2018/07/architecture-wallpaper-571BW_op.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -733,7 +733,7 @@ h2.entry-title a {
 .du_an_mobile .card-img:after{
     content: '';
     position: absolute;
-    background: url('https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/prj-arrow-right.png') no-repeat top;
+    background: url('https://stagging.cofico.com.vn/wp-content/uploads/2014/10/prj-arrow-right.png') no-repeat top;
     width: 20px;
     background-size: 20px 40px;
     z-index: 9999;
@@ -1432,7 +1432,7 @@ span.wpcf7-not-valid-tip {
     margin-top: 45px;
 }
 .navbar-light .navbar-toggler-icon {
-    background-image: url("https://www.stagging.cofico.com.vn/wp-content/themes/coficodev/images/nav.png");
+    background-image: url("https://stagging.cofico.com.vn/wp-content/themes/coficodev/images/nav.png");
 }
 
 .main-mt .home_content {

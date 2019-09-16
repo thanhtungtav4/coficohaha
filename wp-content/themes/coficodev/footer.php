@@ -12,8 +12,8 @@
         </div>
 
         <div class="img_cofico">
-            <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
-                <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+            <a href="https://stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
+                <img width="237" height="237" src="https://stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
         </div>
         <div>
             <div class="text_sub_video">
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="img_cofico">
-            <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+            <img src="https://stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
         </div>
         <div>
             <div class="text_sub_video">
@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="img_cofico">
-            <img src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+            <img src="https://stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
         </div>
     </div>
     </div>
@@ -41,20 +41,20 @@
             </div>
 
             <div class="img_cofico">
-                <a href="https://www.stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
-                    <img width="237" height="237" src="https://www.stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
+                <a href="https://stagging.cofico.com.vn/tam-nhin-su-menh-gia-tri/" target="_self" rel="noopener noreferrer">
+                    <img width="237" height="237" src="https://stagging.cofico.com.vn/wp-content/uploads/2014/10/CORE-VALUES_FINISHED11.png" class="card-img" alt="CORE-VALUES_FINISHED1"></a>
             </div>
             <div>
                 <div class="text_sub_video"><span>UY TÍN VỀ AN TOÀN, SỨC KHOẺ & MÔI TRƯỜNG</span></div>
             </div>
             <div class="img_cofico">
-                <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                <img width="350" height="250" src="https://stagging.cofico.com.vn/wp-content/uploads/ZeroHarm.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
             </div>
             <div>
                 <div class="text_sub_video"><span>CÔNG NGHỆ HIỆN ĐẠI</span></div>
             </div>
             <div class="img_cofico">
-                <img width="350" height="250" src="https://www.stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
+                <img width="350" height="250" src="https://stagging.cofico.com.vn/wp-content/uploads/tech.jpg" class="card-img" alt="CORE-VALUES_FINISHED1">
             </div>
         </div>
     </div>
@@ -183,7 +183,7 @@
                     <div class="col-md-6">
                         <div class="info_footer">
                            
-                            <div class="list_item_footer padding_f1"><a href="https://www.stagging.cofico.com.vn/en/tuyen-dung/">RECRUITMENT</a>  <a href="https://www.stagging.cofico.com.vn/en/van-ban-phap-luat/">DOCUMENTS</a><a href="https://www.stagging.cofico.com.vn/en/sitemap/">SITE MAP</a>  <a href="https://outlook.office365.com/">WEB MAIL</a> <a href="https://www.stagging.cofico.com.vn/en/lien-he/">CONTACT</a>
+                            <div class="list_item_footer padding_f1"><a href="https://stagging.cofico.com.vn/en/tuyen-dung/">RECRUITMENT</a>  <a href="https://stagging.cofico.com.vn/en/van-ban-phap-luat/">DOCUMENTS</a><a href="https://stagging.cofico.com.vn/en/sitemap/">SITE MAP</a>  <a href="https://outlook.office365.com/">WEB MAIL</a> <a href="https://stagging.cofico.com.vn/en/lien-he/">CONTACT</a>
                                 <a style="margin: 10px" class="none_mobile"><i class="far fa-chart-bar fa-2x"></i> <?php echo do_shortcode('[srs_total_visitors]'); ?></a>
                             </div>
                         </div>
@@ -208,7 +208,7 @@
                     <div class="col-md-6">
                         <div class="info_footer">
                           
-                            <div class="list_item_footer padding_f1"><a href="https://www.stagging.cofico.com.vn/tuyen-dung/">TUYỂN DỤNG</a>  <a href="https://www.stagging.cofico.com.vn/van-ban-phap-luat/">VĂN BẢN</a><a href="https://www.stagging.cofico.com.vn/sitemap/">SITE MAP</a>  <a href="https://outlook.office365.com/">WEB MAIL</a> <a href="https://www.stagging.cofico.com.vn/lien-he/">LIÊN HỆ</a>
+                            <div class="list_item_footer padding_f1"><a href="https://stagging.cofico.com.vn/tuyen-dung/">TUYỂN DỤNG</a>  <a href="https://stagging.cofico.com.vn/van-ban-phap-luat/">VĂN BẢN</a><a href="https://stagging.cofico.com.vn/sitemap/">SITE MAP</a>  <a href="https://outlook.office365.com/">WEB MAIL</a> <a href="https://stagging.cofico.com.vn/lien-he/">LIÊN HỆ</a>
                                 <a style="margin: 10px" class="none_mobile"><i class="far fa-chart-bar fa-2x"></i> <?php echo do_shortcode('[srs_total_visitors]'); ?></a>
                             </div>
                         </div>
@@ -260,11 +260,11 @@
                 <div class="footer_link">
                     <div class="hr-border">
                         <ul class="">
-                            <li><a href="https://www.stagging.cofico.com.vn/en/tuyen-dung/">RECRUITMENT</a></li>
-                            <li><a href="https://www.stagging.cofico.com.vn/en/van-ban-phap-luat/">DOCUMENTS</a></li>
-                            <li><a href="https://www.stagging.cofico.com.vn/en/sitemap/">SITE MAP</a></li>
+                            <li><a href="https://stagging.cofico.com.vn/en/tuyen-dung/">RECRUITMENT</a></li>
+                            <li><a href="https://stagging.cofico.com.vn/en/van-ban-phap-luat/">DOCUMENTS</a></li>
+                            <li><a href="https://stagging.cofico.com.vn/en/sitemap/">SITE MAP</a></li>
                             <li><a href="https://outlook.office365.com">WEB MAIL</a></li>
-                            <li><a href="https://www.stagging.cofico.com.vn/en/lien-he/">CONTACT</a></li>
+                            <li><a href="https://stagging.cofico.com.vn/en/lien-he/">CONTACT</a></li>
                         </ul>
                         <ul class="right_footer">
                             <li><a href="#"> VIEW: <?php echo do_shortcode('[srs_total_visitors]'); ?></a></li>
@@ -289,11 +289,11 @@
             <div class="footer_link">
                 <div class="hr-border">
                     <ul class="">
-                        <li><a href="https://www.stagging.cofico.com.vn/tuyen-dung/">TUYỂN DỤNG</a></li>
-                        <li><a href="https://www.stagging.cofico.com.vn/van-ban-phap-luat/">VĂN BẢN</a></li>
-                        <li><a href="https://www.stagging.cofico.com.vn/sitemap/">SITE MAP</a></li>
+                        <li><a href="https://stagging.cofico.com.vn/tuyen-dung/">TUYỂN DỤNG</a></li>
+                        <li><a href="https://stagging.cofico.com.vn/van-ban-phap-luat/">VĂN BẢN</a></li>
+                        <li><a href="https://stagging.cofico.com.vn/sitemap/">SITE MAP</a></li>
                         <li><a href="https://outlook.office365.com">WEB MAIL</a></li>
-                        <li><a href="https://www.stagging.cofico.com.vn/lien-he">LIÊN HỆ</a></li>
+                        <li><a href="https://stagging.cofico.com.vn/lien-he">LIÊN HỆ</a></li>
                     </ul>
                     <ul class="right_footer">
                         <li><a href="#"> Lượt Xem: <?php echo do_shortcode('[srs_total_visitors]'); ?></a></li>

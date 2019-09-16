@@ -22,11 +22,11 @@ define('WP_AUTO_UPDATE_CORE', false);// This setting is required to make sure th
 define('CONCATENATE_SCRIPTS', false);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'cof75377_cofico');
+define('DB_NAME', 'cof75377_stagging');
 /** MySQL database username */
-define('DB_USER', 'cof75_cofico');
+define('DB_USER', 'cof75_stagging');
 /** MySQL database password */
-define('DB_PASSWORD', 'i43~pOl7');
+define('DB_PASSWORD', 'fqx4S7$8');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */

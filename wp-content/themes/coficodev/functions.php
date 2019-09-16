@@ -6,8 +6,8 @@
  */
 remove_action('load-update-core.php','wp_update_plugins');
 add_filter('pre_site_transient_update_plugins','__return_null');
-update_option( 'siteurl', 'https://www.stagging.cofico.com.vn/' );
-update_option( 'home', 'https://www.stagging.cofico.com.vn/' );
+update_option( 'siteurl', 'https://stagging.cofico.com.vn/' );
+update_option( 'home', 'https://stagging.cofico.com.vn/' );
 require_once( get_template_directory(). '/inc/extensions/options-framework/options-framework.php' );
 require_once( get_template_directory(). '/inc/functions-extra.php' );
 //require_once( get_template_directory(). '/inc/meta_box.php' );
